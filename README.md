@@ -502,19 +502,7 @@ This gets it's own section in the back, for quick access without imposing too mu
 
 ### Symbols
 
-An empty box represents a task
-
-A half filled diagonal box represents a partially completed task
-
-A single line through a box indicates the task is cancelled 
-
-An arrow pointing out of the box indicates that it is postponed 
-
-A dash means a note
-
-A question mark indicates an open question
-
-An asterisk indicates importance, although extremely important items and events may be best tracked electronically.
+![Bullet Journal Common Symbols](/img/bujo_symbols.png)
 
 
 
