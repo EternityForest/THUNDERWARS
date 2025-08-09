@@ -1,7 +1,4 @@
 # THUNDERWARS
-Military/Fantasy/Sci-fi inspired time management/journaling/productivity system
-
---------------
 
 ⚔️ THUNDERWARS: Personal Warfare Protocol
 
@@ -10,6 +7,9 @@ Threat Habit Unmasking and Neutralization by Direct Engagement and Rigorous Will
 
 
 You Have Been Drafted.
+
+---------------------------------
+
 
 Begin by completing a BRANCH table, a FATIGUE DUTY chart, and a MESS HALL plan.
 
@@ -20,7 +20,7 @@ Maintain an INCIDENT LOG and GENERAL LOG.
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
 
------------------------------------------------
+
 
 ## CONTEXT page
 
@@ -96,7 +96,6 @@ Use this especially when:
 
 -----------------------------------------------
 
-
 ## BRANCH table
 
 
@@ -106,17 +105,10 @@ Battlefield Recon And Necessary Changes to Habits
 For each physical or mental area impacted by an enemy, list:
 
 
-----
-
 * The name
 * the Strategic Impact
-* The primary cause of the problem, tactic of the enemy, or emotional impediment 
+* The primary cause of the problem, tactic of the enemy, or emotional impediment
 
------
-
-
-
----------------------------------------------------
 
 
 ## DAGGER (Direct Action General Goal Elucidation Report)
@@ -128,7 +120,7 @@ For smaller projects it may still be useful to review the list even if you do no
 
 ### 🎯 MISSION OBJECTIVE
 
-* What is your immediate goal? 
+* What is your immediate goal?
 * How will you know that you have at least succeeded in the short term?
 * What is the timeline for this mission?
 * Would some parts be better done later, made less extreme, or not done at all?
@@ -149,8 +141,8 @@ For smaller projects it may still be useful to review the list even if you do no
 
 ### 🛡 DEFENSIVE STRATEGY
 
-	 	
-	 	
+      
+      
 * What physical, social, or procedural changes will make it easier to complete the mission?
 * What will you no longer accept?
 * What traps or hazards are likely active on this mission?
@@ -186,7 +178,7 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 * What has this enemy already taken from you?
 * In what ways does this enemy cause you to betray your values?
 * What false promises does this enemy make?
-* What strategy does this enemy use to destroy you? 
+* What strategy does this enemy use to destroy you?
 * At what times is this enemy typically active?
 
 ### 🔨 JUSTICE
@@ -205,7 +197,6 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 
 For specific, focused missions like preparing for an important meeting, use the additional FIELD OPS questions:
 
----
 
 ### 🧠 PREPARATION
 Have you done a mental walkthrough of the full mission?
@@ -244,7 +235,6 @@ Is there a gear checklist for teardown?
 What needs to be cleaned, reset, logged, repacked, or uploaded?
 Have you made time to rest, review, and debrief?
 
--------------------------
 
 
 ### FATIGUE DUTY chart
@@ -253,29 +243,26 @@ Have you made time to rest, review, and debrief?
 For each regular and recurring task that must be performed, list:
 
 * The action
-* The likely consequences of failure to perform the action 
+* The likely consequences of failure to perform the action
 
 Critical and time sensitive tasks should be tracked with an automatically repeating electronic reminder.
 
--------------------------
 
 ### MESS HALL
 
 List any self care practices you intend to perform regularly as needed.
 
--------------------------
 
 ### INCIDENT LOG
 
 Record any major failures, mistakes, or negative events, along with:
 
 * The time and date
-* Contributing factors such as hunger or exhaustion 
+* Contributing factors such as hunger or exhaustion
 * What could have been done to prevent the error
-* What could have been done to make the error impossible 
+* What could have been done to make the error impossible
 * How the error could have been detected earlier
 
----------------------------
 
 ### LOGISTICS CHART
 
@@ -285,7 +272,6 @@ Record:
 * Items in need of repairs or unscheduled maintenance not listed in FATIGUE DUTY.
 * Items or empty spaces that are notably currently not being used or that you intend to do something with
 
-------------
 
 
 ### GENERAL LOG
@@ -293,12 +279,11 @@ Record:
 
 Record successful or unsuccessful completion of missions and all notable changing conditions, along with notes from the DAWN BRIEFING and DUSK WATCH
 
------------------
 
 
 ## 🌅 DAWN BRIEFING
 
-You Have Been Drafted 
+You Have Been Drafted
 
 Conduct this review around breakfast or before you begin your day’s first duties.
 
@@ -323,9 +308,9 @@ What specific actions will you take today?
 
 7. 🕳 Expected Hazards and Traps
 
-What might go wrong? What ambushes are likely? 
+What might go wrong? What ambushes are likely?
 
-8. 🛡 Reinforcement and Self-Care 
+8. 🛡 Reinforcement and Self-Care
 Review MESS HALL. What morale, nutrition, or recovery actions are needed?
 
 9. 🛡️ Review your OPERATING STANCE
@@ -336,7 +321,7 @@ For the duration of the day's mission, you should remember:
 
 
 * Perform tasks with conscious attention to your environment.
-* Use checklists and procedures carefully, don't just rely on memory 
+* Use checklists and procedures carefully, don't just rely on memory
 * Pause frequently to recall today’s mission intent.
 * Don’t take shortcuts or deviate from procedure without clear cause.
 * Slow is smooth, smooth is fast—do not skip small actions like removing trip hazards to “save time.”
@@ -344,24 +329,30 @@ For the duration of the day's mission, you should remember:
 * If you aren't sure what you should be doing, go back and review the documents
 * Stop and reassesses if even minor non-ideal conditions are noticed
 * Don't leave tasks half-completed, put things away when done
-* Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory 
+* Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
 * Do things right away, or make a note to do things, as soon as you notice them
-
----
 
 ## 🌇 DUSK WATCH
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
 
-1. 📋 FATIGUE DUTY review 
+1. FATIGUE DUTY review 
 
 Was each recurring duty completed? If not, why?
 
 2. Review the DUSK WATCH CONTEXT PAGE
 
-3. 🧠 Logging and Debriefing
+3. Review recent GENERAL LOG entries 
 
-Record new events in the  INCIDENT LOG (mistakes, recurring issues) and GENERAL LOG (observations, insights, completed missions, current processes that leave room for errors, tasks that are still undone)
+4. 🧠 Logging and Debriefing
+
+Record new events in the  INCIDENT LOG and GENERAL LOG 
+
+* observations, insights
+* completed missions 
+* current processes that leave room for errors
+* tasks that are still undone
+
 
 4.  🔐 SECURITY & SUPPLY ROUND
 Secure the environment and restore the base with another sweep of the environment.
@@ -382,16 +373,14 @@ Review your BRANCH table and any relevant DAGGER charts, and update them as need
 
 6. ⏰ FINAL PREPARATIONS
 
-Set all needed alarms, alerts, and reminders, and ensure that any items needed to tomorrow are ready to go. 
+Set all needed alarms, alerts, and reminders, and ensure that any items needed to tomorrow are ready to go.
 
-Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo lists system for the next DAWN BRIEFING 
+Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo lists system for the next DAWN BRIEFING
 
 7. ❤️ Review the MESS HALL document and consider taking self care actions.
 
 > “All posts accounted for. Patrols stood down. Perimeter secure.”
 
-
-------------
 
 ## ⚔️ Weekly Commander's Review: SWORDPOINT
 
@@ -405,6 +394,7 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 
 
 ### 📚 Document Review
+
 * Review your CONTEXT PAGES including infrequently used ones.
 * Review the THUNDERWARS cheat sheet.
 * Do any Standing Orders need review or reinforcement?
@@ -415,10 +405,12 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 
 
 ### 📆 MISSION RECAP
+
 * What were your major actions, goals, or struggles this week? List any operations, breakthroughs, regressions, surprises, or pivots.
 * Did anything from the week deserve a DAGGER report?
 
 ### 🧠 DEBRIEF
+
 * What went well and why?
 * What failed and why?
 * Were there signs you ignored, shortcuts you regretted, or things that could’ve been anticipated?
@@ -426,17 +418,18 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 
 
 ### 🔥 DAMAGE REPORT
+
 * What areas fell into chaos, neglect, or regression?
 * What friction points or breakdowns repeated?
 * Any untracked or creeping obligations forming?
 * Any consistently neglected tasks?
-
 * What RUINOUS SYSTEMS may be affecting you at present?
 
 
 ### 🛠️ STRATEGIC ADJUSTMENTS
-* What do you want to change about your approach or posture next week?
 
+* What do you want to change about your approach or posture next week?
+* What unused resources, spaces, or abilities have you noticed that you could apply?
 
 ### 🎯 NEXT WEEK'S DIRECTIVES
 * What are your key missions or events?
@@ -449,16 +442,14 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 * Are any goals losing connection to your values or drifting toward burnout?
 
 
-### ✔️ TODO Review 
+### ✔️ TODO Review
 
 1. Move anything non-urgent to the Ideas/Someday list.
 2. Merge duplicates or related items into a single clear task.
 3. Split large tasks into smaller, single-action steps.
 4. Upgrade vague entries with a clearer action and/or Reason Statement.
-5. Check off and record completed items in the GENERAL LOg
+5. Check off and record completed items in the GENERAL LOG
 
-
--------------------------
 
 ## FIELD BOOK
 
@@ -468,7 +459,7 @@ There should be 5 tabs:
 
 ### GENERAL LOG
 
-Use a bookmark to quickly jump to the specific day 
+Use a bookmark to quickly jump to the specific day
 
 
 ### OPERATIONS
@@ -496,7 +487,7 @@ For any random nonstandard notes
 
 ### INCIDENT LOG
 
-This gets it's own section in the back, for quick access without imposing too much unpleasantness 
+This gets it's own section in the back, for quick access without imposing too much unpleasantness
 
 
 
@@ -505,9 +496,7 @@ This gets it's own section in the back, for quick access without imposing too mu
 ![Bullet Journal Common Symbols](/img/bujo_symbols.png)
 
 
-
-------------
-## RUINOUS SYSTEMS 
+## RUINOUS SYSTEMS
 
 You may want to create a separate page to list any larger threats that may be working in the background, as common factors driving multiple seemingly unrelated THREAT HABITS.
 
@@ -576,20 +565,19 @@ Physically writing something requires more effort, do the harder thing first if 
 
 #### Instant-Access Situations
 
- Data you may need without load times (maps, quick reference tables, visual mnemonics, simple daily todos)
+Data you may need without load times (maps, quick reference tables, visual mnemonics, simple daily todos)
 
-------------
 
 ## 📦 ARCHIVE
 
 Step 1: Field Archive
 
 
- When a page is no longer active but may still be referenced soon (e.g. last week’s BRANCH, recent gear logs, completed DAGGERs), move it to the rear of your FIELD BOOK, after your spare blank pages. This keeps it accessible, but out of your working tabs.
+When a page is no longer active but may still be referenced soon (e.g. last week’s BRANCH, recent gear logs, completed DAGGERs), move it to the rear of your FIELD BOOK, after your spare blank pages. This keeps it accessible, but out of your working tabs.
 
 Step 2: Deep Archive
- 
 
 When pages are fully complete or unlikely to be used again soon, transfer them to your archive box or binder at base. File by section or date for long-term reflection, incident tracking, or post-mission analysis.
 
 “Leave no thought behind. Every battle fought teaches the next one.”
+
