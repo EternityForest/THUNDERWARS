@@ -30,6 +30,8 @@ They can be used for recurring events, or for the planning leading up to one-tim
 
 They should usually be kept in the place where they will be used.
 
+Frequently forgotten tasks should be added to the relevant CONTEXT page, even if it seems like you "should be able to remember them".
+
 
 
 ## TODO List Protocol
@@ -400,7 +402,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 ---
 
 Remember that You Have Been Drafted.  Ignoring important missions is likely not a good option.
-
+
+
 ### 📚 Document Review
 * Review your CONTEXT PAGES including infrequently used ones.
 * Review the THUNDERWARS cheat sheet.
@@ -420,27 +423,32 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 * What failed and why?
 * Were there signs you ignored, shortcuts you regretted, or things that could’ve been anticipated?
 * Are there emerging themes in your INCIDENT LOG?
-
+
+
 ### 🔥 DAMAGE REPORT
 * What areas fell into chaos, neglect, or regression?
 * What friction points or breakdowns repeated?
 * Any untracked or creeping obligations forming?
-* Any consistently neglected tasks?
+* Any consistently neglected tasks?
+
 * What RUINOUS SYSTEMS may be affecting you at present?
 
 
 ### 🛠️ STRATEGIC ADJUSTMENTS
 * What do you want to change about your approach or posture next week?
-
+
+
 ### 🎯 NEXT WEEK'S DIRECTIVES
 * What are your key missions or events?
 * What needs prep or early action now?
 * Which actions are critical to retaining ground gained?
-
+
+
 ### 🧭 VALUES ALIGNMENT
 * Are you moving closer to the kind of person you want to become?
 * Are any goals losing connection to your values or drifting toward burnout?
-
+
+
 ### ✔️ TODO Review 
 
 1. Move anything non-urgent to the Ideas/Someday list.
@@ -586,11 +594,13 @@ Physically writing something requires more effort, do the harder thing first if 
 
 ## 📦 ARCHIVE
 
-Step 1: Field Archive
+Step 1: Field Archive
+
 
  When a page is no longer active but may still be referenced soon (e.g. last week’s BRANCH, recent gear logs, completed DAGGERs), move it to the rear of your FIELD BOOK, after your spare blank pages. This keeps it accessible, but out of your working tabs.
 
-Step 2: Deep Archive 
+Step 2: Deep Archive
+ 
 
 When pages are fully complete or unlikely to be used again soon, transfer them to your archive box or binder at base. File by section or date for long-term reflection, incident tracking, or post-mission analysis.
 
