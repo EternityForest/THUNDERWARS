@@ -379,6 +379,8 @@ For the duration of the day's mission, you should remember:
 * Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
 * Do things right away, or make a note to do things, as soon as you notice them
 
+> Standby.... Ready..... GO!
+
 ## 🌇 DUSK WATCH
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
@@ -426,7 +428,7 @@ Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo l
 
 7. ❤️ Review the MESS HALL document and consider taking self care actions.
 
-> “All posts accounted for. Patrols stood down. Perimeter secure.”
+> All posts accounted for. Patrols stood down. Perimeter secure.
 
 
 ## ⚔️ Weekly Commander's Review: SWORDPOINT
@@ -437,10 +439,10 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 ---
 
-Remember that You Have Been Drafted.  Ignoring important missions is likely not a good option.
+> Remember that You Have Been Drafted.  Ignoring important missions is likely not a good option.
 
 
-### 📚 Document Review
+### 📚 DOCUMENT REVIEW
 
 * Review your CONTEXT PAGES including infrequently used ones.
 * Review the THUNDERWARS cheat sheet.
@@ -483,7 +485,7 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 * What needs prep or early action now?
 * Which actions are critical to retaining ground gained?
 
-### Long Term Alignment 
+### LONG TERM ALIGNMENT
 * What kind of person do you intend to become?
 * What "someday" projects would you like to eventually work on?
 * What are your current top goals?
@@ -514,7 +516,9 @@ There should be 5 tabs:
 
 ### GENERAL LOG
 
-Use a bookmark to quickly jump to the specific day
+Use a bookmark to quickly jump to the specific day.  Those who 
+mostly use digital media can use this for short bullet point upgrades,
+and keep a separate digital DIARY for longer discussion.
 
 
 ### OPERATIONS
