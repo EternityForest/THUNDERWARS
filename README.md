@@ -55,6 +55,16 @@ No critical item should ever “float” without a path from a root — otherwis
 
 **Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
+### Capture Doctrine
+
+Nothing important should exist entirely in your head. Document things immediately when you think of them,
+so they are not forgotten.  
+
+If something does not have an obvious place it should go, and can be expressed in a few words, 
+put it in the GENERAL LOG.
+
+Use shorthand, partial sentences, bullet points, etc, to reduce the friction of the initial capture step- you can
+journal further later.
 
 
 ## CONTEXT page
@@ -470,11 +480,18 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 * What needs prep or early action now?
 * Which actions are critical to retaining ground gained?
 
+### Long Term Alignment 
+* What kind of person do you intend to become?
+* What "someday" projects would you like to eventually work on?
+* What are your current top goals?
+* What steps have you taken this week towards your goals?
+* What obstacles have impeded progress towards them?
+* What actions will you take towards them this week?
+* Are your goals or actions related to them represented in your calendar, to-do list, general log, or other *reachable* documents?
 
 ### 🧭 VALUES ALIGNMENT
 * Are you moving closer to the kind of person you want to become?
 * Are any goals losing connection to your values or drifting toward burnout?
-
 
 ### ✔️ TODO Review
 
