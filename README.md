@@ -17,8 +17,43 @@ Then complete a DAGGER report for a zones within the BRANCH table identified as 
 
 Maintain an INCIDENT LOG and GENERAL LOG.
 
+Create Context Pages for frequently repeated tasks or significant future plans.
+
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
+
+## Design Principles
+
+### Extreme Consistency
+
+The system depends on an unwavering review rhythm — at minimum **Dawn**, **Dusk**, and **Weekly** (**SWORDPOINT**) reviews.
+
+These reviews **cannot** be skipped or replaced by ad-hoc checks, even if you’ve already reviewed the same material earlier in the day.  
+
+Redundancy is intentional — it builds reliability, strengthens habits, and prevents drift.  
+
+Additional reviews may be done at any time (and often should be), but they are *supplementary*, never substitutes.  
+
+**Why:** Consistency transforms the system from a collection of tools into an operational stance you can trust.
+
+
+### Reachability
+
+Borrowed from computer science — a document, reminder, or process is *reachable* if you can always get to it by starting from one of a small set of **root procedures** you already do, and can trust yourself to keep doing.
+
+All important items must be **explicitly linked** to a "root" that you are confident you will review at the appropriate time, and they must be linked in a way that you are sure you will notice.
+
+ **Roots** include:  
+
+  - Your **General Log**  
+  - **Context Pages**  
+  - **Standard Reviews** (Dawn, Dusk, SWORDPOINT)  
+  - **Essential physical tabs** in your Field Book
+  - Timed electronic reminders
+
+No critical item should ever “float” without a path from a root — otherwise it becomes *unreachable* and effectively lost.  
+
+**Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
 
 
@@ -278,7 +313,6 @@ Record:
 
 
 Record successful or unsuccessful completion of missions and all notable changing conditions, along with notes from the DAWN BRIEFING and DUSK WATCH
-
 
 
 ## 🌅 DAWN BRIEFING
