@@ -66,6 +66,9 @@ put it in the GENERAL LOG.
 Use shorthand, partial sentences, bullet points, etc, to reduce the friction of the initial capture step- you can
 journal further later.
 
+If something will take less than 2 minutes, just do it instead of recording it, unless there are multiple such things
+on your mind at once, then record them to avoid forgetting them.
+
 
 ## CONTEXT page
 
@@ -488,6 +491,7 @@ Remember that You Have Been Drafted.  Ignoring important missions is likely not 
 * What obstacles have impeded progress towards them?
 * What actions will you take towards them this week?
 * Are your goals or actions related to them represented in your calendar, to-do list, general log, or other *reachable* documents?
+* What aspects of your goals and projects can you pursue with focused deep work?
 
 ### 🧭 VALUES ALIGNMENT
 * Are you moving closer to the kind of person you want to become?
