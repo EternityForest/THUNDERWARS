@@ -55,7 +55,7 @@ No critical item should ever “float” without a path from a root — otherwis
 
 **Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
-### Capture Doctrine
+### CAPTURE DOCTRINE
 
 Nothing important should exist entirely in your head. Document things immediately when you think of them,
 so they are not forgotten.  
@@ -80,9 +80,9 @@ They should usually be kept in the place where they will be used.
 
 Frequently forgotten tasks should be added to the relevant CONTEXT page, even if it seems like you "should be able to remember them".
 
+--------
 
-
-## TODO List Protocol
+## TODO List DOCTRINE
 
 ### Entry Rules
 
@@ -247,46 +247,45 @@ For specific, focused missions like preparing for an important meeting, use the 
 
 
 ### 🧠 PREPARATION
-Have you done a mental walkthrough of the full mission?
-Have you checked the weather report?
-Have you performed a dry run or test (e.g. equipment, presentation)?
-If you had to deploy right now, what would be missing?
+* Have you done a mental walkthrough of the full mission?
+* Have you checked the weather report?
+* Have you performed a dry run or test (e.g. equipment, presentation)?
+* If you had to deploy right now, what would be missing?
 
 
 ### ⚙️ GEAR
-Is all gear packed, charged, and weather-ready?
-Do you know what you will be wearing?
-Do you have all required medical, hygiene, or comfort items?
-Is all food and water accounted for?
-Do you need to gather documents, IDs, or permissions?
-Are any critical documents backed up on paper?
-Are digital files in the right formats, folders, and accessible offline?
+* Is all gear packed, charged, and weather-ready?
+* Do you know what you will be wearing?
+* Do you have all required medical, hygiene, or comfort items?
+* Is all food and water accounted for?
+* Do you need to gather documents, IDs, or permissions?
+* Are any critical documents backed up on paper?
+* Are digital files in the right formats, folders, and accessible offline?
 
 ### 🚗 TRANSPORT & TIMING
-What is your departure time, and how was it calculated?
-Do you know exactly where to go, how to get there, and what door to enter?
-Is your arrival window realistic (traffic, parking, check-in)?
-Have you double-checked timezones, calendars, and alarms?
-When does the operation end, and how will you leave the site?
+* What is your departure time, and how was it calculated?
+* Do you know exactly where to go, how to get there, and what door to enter?
+* Is your arrival window realistic (traffic, parking, check-in)?
+* Have you double-checked timezones, calendars, and alarms?
+* When does the operation end, and how will you leave the site?
 
 ### 🛠️ EXECUTION
-Will you have access to power, internet, and credentials?
-Will you be able to take breaks or eat if the op runs long?
+* Will you have access to power, internet, and credentials?
+* Will you be able to take breaks or eat if the op runs long?
 
 ### 🗣️ COMMUNICATION
-How will you maintain contact with allies or support?
-Do you need to delegate anything or request backup?
+* How will you maintain contact with allies or support?
+* Do you need to delegate anything or request backup?
 
 ### 🧹 TEARDOWN & RECOVERY
-Have you planned to recover all gear or borrowed items?
-Is there a gear checklist for teardown?
-What needs to be cleaned, reset, logged, repacked, or uploaded?
-Have you made time to rest, review, and debrief?
+* Have you planned to recover all gear or borrowed items?
+* Is there a gear checklist for teardown?
+* What needs to be cleaned, reset, logged, repacked, or uploaded?
+* Have you made time to rest, review, and debrief?
 
 
 
 ### FATIGUE DUTY chart
-
 
 For each regular and recurring task that must be performed, list:
 
@@ -334,50 +333,35 @@ You Have Been Drafted
 
 Conduct this review around breakfast or before you begin your day’s first duties.
 
-Your DAWN BRIEFING NOTES, should be entered into the GENERAL LOG.
+Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
-1. 🔍 Review the recent General Log, and any electronic or paper calendars or todo lists you keep
-
-What missions are underway? What’s the next move?
-
+1. 🔍 What missions are underway? What’s the next move? Review the recent General Log, and any electronic or paper calendars or todo lists you keep.
 2. Review Recent GENERAL LOG notes
 3. Recall the day's plans, obligations, meetings, and events, and determine what additional preparation may be required
 4. Review DAWN CONTEXT PAGE
-
-5.📋 FATIGUE DUTY Chart
-
-What essential maintenance must be upheld?
-
+5.📋 Review FATIGUE DUTY Chart
 6. 👀 Brief Sweep of the Physical Environment
-
 7. ⚔️ Record Today’s Intentions, noting upcoming events and obligations.
-
-What specific actions will you take today?
-
-8. 🕳 Expected Hazards and Traps
-
-What might go wrong? What ambushes are likely?
-
-9. 🛡 Reinforcement and Self-Care. Review MESS HALL. What morale, nutrition, or recovery actions are needed?
-
+8. 🕳 Expected Hazards and Traps: What might go wrong? What ambushes are likely?
+9. 🛡 Review MESS HALL: What morale, nutrition, or recovery actions are needed?
 10. 🛡️ Review your OPERATING STANCE
 
-🛡️ STANDING ORDERS & OPERATING STANCE
+### 🛡️ STANDING ORDERS & OPERATING STANCE
 
-For the duration of the day's mission, you should remember:
-
-
-* Perform tasks with conscious attention to your environment.
-* Use checklists and procedures carefully, don't just rely on memory
-* Pause frequently to recall today’s mission intent.
-* Don’t take shortcuts or deviate from procedure without clear cause.
-* Slow is smooth, smooth is fast—do not skip small actions like removing trip hazards to “save time.”
-* You remain on duty during idle moments (e.g. waiting for water to boil). Use them wisely. Maintain awareness.
-* If you aren't sure what you should be doing, go back and review the documents
-* Stop and reassesses if even minor non-ideal conditions are noticed
-* Don't leave tasks half-completed, put things away when done
-* Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
-* Do things right away, or make a note to do things, as soon as you notice them
+  For the duration of the day's mission, you should remember:
+  
+  
+  * Perform tasks with conscious attention to your environment.
+  * Use checklists and procedures carefully, don't just rely on memory
+  * Pause frequently to recall today’s mission intent.
+  * Don’t take shortcuts or deviate from procedure without clear cause.
+  * Slow is smooth, smooth is fast—do not skip small actions like removing trip hazards to “save time.”
+  * You remain on duty during idle moments (e.g. waiting for water to boil). Use them wisely. Maintain awareness.
+  * If you aren't sure what you should be doing, go back and review the documents
+  * Stop and reassesses if even minor non-ideal conditions are noticed
+  * Don't leave tasks half-completed, put things away when done
+  * Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
+  * Do things right away, or make a note to do things, as soon as you notice them
 
 > Standby.... Ready..... GO!
 
@@ -385,46 +369,34 @@ For the duration of the day's mission, you should remember:
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
 
-1. FATIGUE DUTY review 
-
-Was each recurring duty completed? If not, why?
-
+1. FATIGUE DUTY review: Was each recurring duty completed? If not, why?
 2. Review the DUSK WATCH CONTEXT PAGE
-
 3. Review recent GENERAL LOG entries 
-
 4. 🧠 Logging and Debriefing
+  Record new events in the  INCIDENT LOG and GENERAL LOG 
+  
+  * observations, insights
+  * completed missions 
+  * current processes that leave room for errors
+  * tasks that are still undone
 
-Record new events in the  INCIDENT LOG and GENERAL LOG 
 
-* observations, insights
-* completed missions 
-* current processes that leave room for errors
-* tasks that are still undone
+5.  🔐 SECURITY & SUPPLY ROUND
+  Secure the environment and restore the base with another sweep of the environment.
+  
+  * Doors locked, tools powered down, hazards cleared
+  * Devices charged, gear cleaned or stowed
+  * Supplies checked, groceries listed, repairs noted
+  * Environment scanned: any signs of degradation?
+  * Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
 
+6. 🧭 INTELLIGENCE UPDATES
+  Review your BRANCH table and any relevant DAGGER charts, and update them as needed with new information.
 
-4.  🔐 SECURITY & SUPPLY ROUND
-Secure the environment and restore the base with another sweep of the environment.
-
-✅ Doors locked, tools powered down, hazards cleared
-
-🔌 Devices charged, gear cleaned or stowed
-
-🍞 Supplies checked, groceries listed, repairs noted
-
-🔭 Environment scanned: any signs of degradation?
-
-🪢 Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
-
-5. 🧭 INTELLIGENCE UPDATES
-
-Review your BRANCH table and any relevant DAGGER charts, and update them as needed with new information.
-
-6. ⏰ FINAL PREPARATIONS
-
-Set all needed alarms, alerts, and reminders, and ensure that any items needed to tomorrow are ready to go.
-
-Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo lists system for the next DAWN BRIEFING
+7. ⏰ FINAL PREPARATIONS
+  Set all needed alarms, alerts, and reminders, and ensure that any items needed to tomorrow are ready to go.
+  
+  Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo lists system for the next DAWN BRIEFING
 
 7. ❤️ Review the MESS HALL document and consider taking self care actions.
 
