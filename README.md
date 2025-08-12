@@ -2,11 +2,10 @@
 
 ⚔️ THUNDERWARS: Personal Warfare Protocol
 
+> Threat Habit Unmasking and Neutralization by Direct Engagement and Rigorous Willpower Against Ruinous Systems
 
-Threat Habit Unmasking and Neutralization by Direct Engagement and Rigorous Willpower Against Ruinous Systems
 
-
-You Have Been Drafted.
+> You Have Been Drafted.
 
 ---------------------------------
 
@@ -146,22 +145,49 @@ Use this especially when:
 
 ## BRANCH table
 
+> Battlefield Reconnaissance and Necessary Changes to Habits.
 
-Battlefield Recon And Necessary Changes to Habits
+This is a unified chart of everything that's going on in the medium term, good or bad, that is bigger than just a simple to-do list entry.
+
+It can also contain smaller things, if you are attempting to analyze and reveal interconnectedness in a complex situation with many pieces.
+ 
+Every entry should have:
+
+### Keyword
+
+BATTLE — Active, high-intensity problem or project.
+
+CAMPAIGN — Planned multi-step initiative.
+
+MYSTERY — Unknowns that need investigation, an active project primarily focused on a question.
+
+DECREE — A policy or standing rule that you believe requires attention to integrate or maintain.
+
+FRONTIER — New opportunity or expansion area.
+
+ASSET — Resource to protect or maintain, that does not need major changes at the moment.
+
+ALLIANCE — Relationship or collaboration.
 
 
-For each physical or mental area impacted by an enemy, list:
+### Timeframe(optional)
+
+For minimal friction, use abbreviations. 1d, 1w, 1m, 1y, etc, for days, weeks, months, years.  Leave this blank if the time is unknown or ongoing.
+
+###  Strategic Impact
+
+ Why this matters to the realm overall. How it connects to long-term stability or growth, or what might happen if you fail in this area
+
+### Primary Challenge
+
+The main obstacle or risk, not necessarily an “enemy strategy", although it may be.
 
 
-* The name
-* the Strategic Impact
-* The primary cause of the problem, tactic of the enemy, or emotional impediment
+## DAGGER 
 
+> Direct Action General Goal Elucidation Report
 
-
-## DAGGER (Direct Action General Goal Elucidation Report)
-
-For long term or particularly difficult tasks, record the answers to any relevant questions on this list.
+For long term, difficult, or confusing tasks, record the answers to any relevant questions on this list.
 
 For smaller projects it may still be useful to review the list even if you do not decide to create a report.
 
@@ -405,14 +431,13 @@ Conduct this after most work is done, but at least two hours before you disengag
 
 ## ⚔️ Weekly Commander's Review: SWORDPOINT
 
-Strategic Weekly Overview, Debriefing, Planning, and Operational INTelligence
+> Strategic Weekly Overview, Debriefing, Planning, and Operational INTelligence
 
 A high-command strategy debrief for the week’s campaign.  Probably best done on Saturday or Sunday.
 
----
-
 > Remember that You Have Been Drafted.  Ignoring important missions is likely not a good option.
 
+---
 
 ### 📚 DOCUMENT REVIEW
 
@@ -525,6 +550,38 @@ This gets it's own section in the back, for quick access without imposing too mu
 ### Symbols
 
 ![Bullet Journal Common Symbols](/img/bujo_symbols.png)
+
+## Charter of the Realm
+
+To aid in prioritizing projects and goals, consider your thoughts on these matters, keeping in mind that you may have to discover them over time, and taking care not to lock yourself into an unhealthy self image.
+
+### Core Values
+
+> "These are the banners I ride beneath; I raise them high so I may see them clearly in the dust of battle."
+
+Your moral compass, virtues you fight for
+
+### Favored Arts 
+
+> "I hold these favored arts in trust, knowing they have served me well in times past. Yet I remain mindful that even the surest hand may falter.  Thus I pledge to wield my strengths with care, lest they endanger those I am sworn to protect."
+
+Your "Core Competencies", bearing ever in mind that they may change.
+
+### Standing Orders 
+
+> "When the horns sound and the fog of battle covers all, still the golden path shines clear."
+
+Non-negotiable rules you always follow
+
+### Victory Conditions 
+
+What “winning” in life means to you
+
+### Banned Tactics 
+
+> "Some weapons I leave to rust"
+
+Things you refuse to do, even if they might “work”
 
 
 ## RUINOUS SYSTEMS
