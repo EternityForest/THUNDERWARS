@@ -332,9 +332,39 @@ Critical and time sensitive tasks should be tracked with an automatically repeat
 List any self care practices you intend to perform regularly as needed.
 
 
-### INCIDENT LOG
+### The INCIDENT LOG 
 
-Record any major failures, mistakes, or negative events, along with:
+> “Every blade I have drawn in folly, I sheath with care; every wound I have given, I seek to mend.”
+
+
+The INCIDENT LOG exists to make mistakes a moment of learning and repair instead of shame or avoidance. The point is ownership and right-action, not punishment.
+
+Process:
+
+#### 1. Spot the breach
+
+When you realize you’ve failed to act in accordance with your values, goals, or standing orders, note it immediately in your Incident Log.
+
+
+#### 2. Name the harm
+
+Who or what was affected, or could have been?Include both practical and moral impacts.
+
+Avoid the “non-apology” trap — focus on your action, not how people reacted, or how "everything was fine in the end".
+
+
+#### 3. Repair if possible
+
+If real harm was done, create a plan to make it right where you can. If you can’t repair, make a compensating action that still upholds your values.
+
+
+#### 4. Extract the lesson
+
+Identify what tactical or strategic lapse caused it.
+
+If a recurring problem is identified, it might go into your  “Banned Tactics”, or a refinement of your “Standing Orders.”
+
+Identify and record:
 
 * The time and date
 * Contributing factors such as hunger or exhaustion
@@ -444,6 +474,9 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 > Remember that You Have Been Drafted.  Ignoring important missions is likely not a good option.
 
 ---
+
+### INSPECTION
+* Perform an in-depth sweep of your environment, looking behind, under, and inside things.
 
 ### 📚 DOCUMENT REVIEW
 
