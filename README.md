@@ -451,6 +451,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * Review the THUNDERWARS cheat sheet.
 * Do any Standing Orders need review or reinforcement?
 * Should your FATIGUE DUTY or MESS HALL charts be adjusted?
+* Review LOGISTICS
 * Transcribe anything that needs to be transcribed to digital form.
 * Do the bookkeeping: Copy or summarize notes to where they should be.
 * Is anything in your documents no longer relevant, that should be crossed out, erased, or archived?
@@ -490,6 +491,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 ### LONG TERM ALIGNMENT
 * What kind of person do you intend to become?
+* Review Charter of the Realm
 * What "someday" projects would you like to eventually work on?
 * What are your current top goals?
 * What steps have you taken this week towards your goals?
