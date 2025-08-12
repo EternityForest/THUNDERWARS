@@ -79,6 +79,9 @@ They should usually be kept in the place where they will be used.
 
 Frequently forgotten tasks should be added to the relevant CONTEXT page, even if it seems like you "should be able to remember them".
 
+CONTEXT pages may also be a great place for motivational quotes, remembering that motivation is
+not a substitute for discipline.
+
 --------
 
 ## TODO List DOCTRINE
