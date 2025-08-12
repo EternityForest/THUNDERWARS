@@ -238,6 +238,7 @@ For smaller projects it may still be useful to review the list even if you do no
 * How will the physical environment affect this mission?
 * How will time-related factors affect the mission?
 * What aspects can be validated or confirmed with low time and resource commitment?
+* What unpoven assumptions do you have about the project?
 * How should disruptive changes resulting from this mission be managed?
 
 ### 🎒 SUPPLIES & SUPPORT
