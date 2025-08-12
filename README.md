@@ -215,6 +215,8 @@ For smaller projects it may still be useful to review the list even if you do no
 
 * What other tasks will be made possible or easier by completing the mission?
 * What are the next actionable steps to completing the task?
+* Can or should this project or desired new behavior be reinforced by attaching it to something you already do?
+
 
 ### 🛡 DEFENSIVE STRATEGY
 
