@@ -404,7 +404,7 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 4. Review DAWN CONTEXT PAGE
 5.📋 Review FATIGUE DUTY Chart
 6. 👀 Brief Sweep of the Physical Environment
-7. ⚔️ Record Today’s Intentions, noting upcoming events and obligations.
+7. ⚔️ Record Today’s Intentions. Consult BRANCH if in any doubt.
 8. 🕳 Expected Hazards and Traps: What might go wrong? What ambushes are likely?
 9. 🛡 Review MESS HALL: What morale, nutrition, or recovery actions are needed?
 10. 🛡️ Review your OPERATING STANCE
@@ -412,7 +412,6 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 ### 🛡️ STANDING ORDERS & OPERATING STANCE
 
   For the duration of the day's mission, you should remember:
-  
   
   * Perform tasks with conscious attention to your environment.
   * Use checklists and procedures carefully, don't just rely on memory
