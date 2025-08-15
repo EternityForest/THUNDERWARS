@@ -341,6 +341,56 @@ For specific, focused missions like preparing for an important meeting, use the 
 * What follow-up actions are needed now?
 * What debts or wounds remain from this mission, and how will I make them right?
 
+## SORTIE
+
+> Stabilize, Orient, Regain, Target, Initiate, Endure
+
+For unforseen problems, psychological ambushes, or emotional overwhelm.
+
+
+### S — Stabilize
+
+* Take a slow breath. Plant your feet. Feel one physical anchor point.
+* Halt any harmful action before it gains momentum (e.g., lighting a cigarette, sending a rage message, self-sabotage).
+
+
+### O — Orient
+
+* Name where you are, who’s with you, and what’s actually happening right now.
+* Name the evidence that currently shapes your understanding of what is happening.
+* Is this threat or problem real, exaggerated, or imagined?
+* Is your existing plan still viable?
+* Document any tasks that you are concerned may be forgotten in the current chaos
+* Quick-log any known tasks, duties, or follow-ups that could be lost in the chaos — so they’re safe to forget until later.
+
+
+### R — Regain
+
+* What are your core values? Which one can guide you here?
+* What prior victories or moments of resilience can you recall right now?
+* What capabilities and resources are available right now — including unconventional or “off-mission” ones?
+* What can I avoid doing right now that will prevent making things worse?
+
+
+### T — Target
+
+* What is the root of the current problem or spiral — and what’s just noise?
+* Document any actionable steps currently known and planned — even if incomplete.
+* Prioritize: What must happen first? What can be delayed?
+
+
+### I — Initiate
+
+* Pick one action that gives you relief or traction (begin working on a known task, hydrate, walk, etc).
+* Make it concrete and start within 60 seconds.
+
+
+### E — Endure
+
+* Continue working on tasks in priority order, even if some tasks are currently impossible.
+* If there are blocking issues stopping the entire project, pick an some other productive task.
+
+
 
 ## FATIGUE DUTY chart
 
