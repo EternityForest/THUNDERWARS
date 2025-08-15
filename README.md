@@ -314,9 +314,68 @@ For specific, focused missions like preparing for an important meeting, use the 
 * What needs to be cleaned, reset, logged, repacked, or uploaded?
 * Have you made time to rest, review, and debrief?
 
+## DEBRIEF REPORT
+
+(For reviewing missions, projects, and major events — victories or defeats)
+
+---
+
+### Short Debrief
+ (for quick wins or smaller events)
+
+1. What happened?
+> "Mark well the tale, for memory is a sharper blade than steel."
+
+2. What went well?
+> "Count the bright banners before tending to the torn."
+
+3. What could have gone better?
+> "The strongest warrior is still a student"
+
+4. What's Next?
+> "Decadence in victory is a road to death"
 
 
-### FATIGUE DUTY chart
+### Extended Debrief 
+
+(for major undertakings or failures worth deep study)
+
+1. What was the mission’s original goal?
+> "A map without a destination is but a drawing."
+
+
+2. What changed along the way?
+> "Storms alter even the strongest captain’s course."
+
+
+3. What strengths or skills were proven?
+> "In trial, the metal shows its temper."
+
+
+4. What mistakes or weak points were revealed?
+> "Every dent in the armor tells where the enemy’s aim was true."
+
+
+5. What resources proved critical?
+> "A single rope may bear the weight of a thousand hopes."
+
+
+6. What unexpected allies or hindrances appeared?
+> "Some banners rise unbidden; some shadows too."
+
+
+7. How can this be done better next time?
+> "A wise commander sharpens the spear before the next march."
+
+
+8. What follow-up actions are needed now?
+> "After battle, the wounded and the walls both must be mended."
+
+9. What debts or wounds remain from this mission, and how will I make them right?"
+> "When we reach the shore, we must not forget those who were with us in the storm"
+
+
+## FATIGUE DUTY chart
 
 For each regular and recurring task that must be performed, list:
 
@@ -326,12 +385,12 @@ For each regular and recurring task that must be performed, list:
 Critical and time sensitive tasks should be tracked with an automatically repeating electronic reminder.
 
 
-### MESS HALL
+## MESS HALL
 
 List any self care practices you intend to perform regularly as needed.
 
 
-### The INCIDENT LOG 
+## The INCIDENT LOG 
 
 > “Every blade I have drawn in folly, I sheath with care; every wound I have given, I seek to mend.”
 
@@ -340,24 +399,24 @@ The INCIDENT LOG exists to make mistakes a moment of learning and repair instead
 
 Process:
 
-#### 1. Spot the breach
+### 1. Spot the breach
 
 When you realize you’ve failed to act in accordance with your values, goals, or standing orders, note it immediately in your Incident Log.
 
 
-#### 2. Name the harm
+### 2. Name the harm
 
 Who or what was affected, or could have been?Include both practical and moral impacts.
 
 Avoid the “non-apology” trap — focus on your action, not how people reacted, or how "everything was fine in the end".
 
 
-#### 3. Repair if possible
+### 3. Repair if possible
 
 If real harm was done, create a plan to make it right where you can. If you can’t repair, make a compensating action that still upholds your values.
 
 
-#### 4. Extract the lesson
+### 4. Extract the lesson
 
 Identify what tactical or strategic lapse caused it.
 
@@ -372,7 +431,7 @@ Identify and record:
 * How the error could have been detected earlier
 
 
-### LOGISTICS CHART
+## LOGISTICS CHART
 
 
 Record:
