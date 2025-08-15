@@ -312,67 +312,34 @@ For specific, focused missions like preparing for an important meeting, use the 
 * Have you planned to recover all gear or borrowed items?
 * Is there a gear checklist for teardown?
 * What needs to be cleaned, reset, logged, repacked, or uploaded?
-* Have you made time to rest, review, and debrief?
+* Have you madetime to rest, review, and debrief?
 
 ## DEBRIEF REPORT
 
 (For reviewing missions, projects, and major events — victories or defeats)
 
----
+### Short Debrief 
 
-### Short Debrief
- (for quick wins or smaller events)
+(for quick wins or smaller events)
 
-1. What happened?
-> "Mark well the tale, for memory is a sharper blade than steel."
+* What happened?
+* What went well?
+* What could have gone better?
+* What's Next?
 
-2. What went well?
-> "Count the bright banners before tending to the torn."
-
-3. What could have gone better?
-> "The strongest warrior is still a student"
-
-4. What's Next?
-> "Decadence in victory is a road to death"
-
-
-### Extended Debrief 
+### Extended Debrief
 
 (for major undertakings or failures worth deep study)
 
-1. What was the mission’s original goal?
-> "A map without a destination is but a drawing."
-
-
-2. What changed along the way?
-> "Storms alter even the strongest captain’s course."
-
-
-3. What strengths or skills were proven?
-> "In trial, the metal shows its temper."
-
-
-4. What mistakes or weak points were revealed?
-> "Every dent in the armor tells where the enemy’s aim was true."
-
-
-5. What resources proved critical?
-> "A single rope may bear the weight of a thousand hopes."
-
-
-6. What unexpected allies or hindrances appeared?
-> "Some banners rise unbidden; some shadows too."
-
-
-7. How can this be done better next time?
-> "A wise commander sharpens the spear before the next march."
-
-
-8. What follow-up actions are needed now?
-> "After battle, the wounded and the walls both must be mended."
-
-9. What debts or wounds remain from this mission, and how will I make them right?"
-> "When we reach the shore, we must not forget those who were with us in the storm"
+* What was the mission’s original goal?
+* What changed along the way?
+* What strengths or skills were proven?
+* What mistakes or weak points were revealed?
+* What resources proved critical?
+* What unexpected allies or hindrances appeared?
+* How can this be done better next time?
+* What follow-up actions are needed now?
+* What debts or wounds remain from this mission, and how will I make them right?
 
 
 ## FATIGUE DUTY chart
