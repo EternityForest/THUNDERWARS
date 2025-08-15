@@ -50,7 +50,7 @@ All important items must be **explicitly linked** to a "root" that you are confi
   - **Essential physical tabs** in your Field Book
   - Timed electronic reminders
 
-No critical item should ever “float” without a path from a root — otherwise it becomes *unreachable* and effectively lost.  
+No critical item should ever “float” without a path from a root — otherwise it becomes *unreachable* and effectively lost.
 
 **Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
@@ -216,11 +216,9 @@ For smaller projects it may still be useful to review the list even if you do no
 * What other tasks will be made possible or easier by completing the mission?
 * What are the next actionable steps to completing the task?
 * Can or should this project or desired new behavior be reinforced by attaching it to something you already do?
+* Can this be scheduled for a specific time, or as a recurring event?
 
-
-### 🛡 DEFENSIVE STRATEGY
-
-      
+### 🛡 DEFENSIVE STRATEGY    
       
 * What physical, social, or procedural changes will make it easier to complete the mission?
 * What will you no longer accept?
