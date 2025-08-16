@@ -360,7 +360,6 @@ For unforseen problems, psychological ambushes, or emotional overwhelm.
 * Name the evidence that currently shapes your understanding of what is happening.
 * Is this threat or problem real, exaggerated, or imagined?
 * Is your existing plan still viable?
-* Document any tasks that you are concerned may be forgotten in the current chaos
 * Quick-log any known tasks, duties, or follow-ups that could be lost in the chaos — so they’re safe to forget until later.
 
 
