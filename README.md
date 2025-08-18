@@ -336,6 +336,7 @@ For specific, focused missions like preparing for an important meeting, use the 
 * What strengths or skills were proven?
 * What mistakes or weak points were revealed?
 * What resources proved critical?
+* What was brought, purchased, or planned that was not needed or used?
 * What unexpected allies or hindrances appeared?
 * How can this be done better next time?
 * What follow-up actions are needed now?
