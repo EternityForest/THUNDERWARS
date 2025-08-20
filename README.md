@@ -491,16 +491,17 @@ Conduct this review around breakfast or before you begin your day’s first duti
 
 Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
-1. 👀 Brief Sweep of the Physical Environment
-2. 🔍 What missions are underway? What’s the next move? Review the recent General Log, and any electronic or paper calendars or todo lists you keep.
-3. Review Recent GENERAL LOG notes
-4. Recall the day's plans, obligations, meetings, and events, and determine what additional preparation may be required
-5. Review DAWN CONTEXT PAGE
-6.📋 Review FATIGUE DUTY Chart
-7. ⚔️ Record Today’s Intentions. Consult BRANCH if in any doubt.
-8. 🕳 Expected Hazards and Traps: What might go wrong? What ambushes are likely?
-9. 🛡 Review MESS HALL: What morale, nutrition, or recovery actions are needed?
-10. 🛡️ Review your OPERATING STANCE
+1. Brief Sweep of the Physical Environment
+2. What missions are underway? What’s the next move?
+3. Review the recent General Log, and calendars or todo lists you keep.
+4. Review Recent GENERAL LOG notes
+5. Recall the day's plans, obligations, meetings, and events
+6. Review DAWN CONTEXT PAGE
+7. Review FATIGUE DUTY Chart
+8. Record Today’s Intentions. Consult BRANCH if in any doubt.
+9. Expected Hazards and Traps: What might go wrong? What ambushes are likely?
+10. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
+11. Review your OPERATING STANCE
 
 ### 🛡️ STANDING ORDERS & OPERATING STANCE
 
