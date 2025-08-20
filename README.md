@@ -493,15 +493,16 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
 1. Brief Sweep of the Physical Environment
 2. What missions are underway? What’s the next move?
-3. Review the recent General Log, and calendars or todo lists you keep.
-4. Review Recent GENERAL LOG notes
-5. Recall the day's plans, obligations, meetings, and events
-6. Review DAWN CONTEXT PAGE
-7. Review FATIGUE DUTY Chart
-8. Record Today’s Intentions. Consult BRANCH if in any doubt.
-9. Expected Hazards and Traps: What might go wrong? What ambushes are likely?
-10. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
-11. Review your OPERATING STANCE
+3. Review the recent General Log
+4. Review any calendars or todo lists you keep.
+5. Review Recent GENERAL LOG notes
+6. Recall the day's plans, obligations, meetings, and events
+7. Review DAWN CONTEXT PAGE
+8. Review FATIGUE DUTY Chart
+9. Record Today’s Intentions. Consult BRANCH if in any doubt.
+10. Expected Hazards and Traps: What might go wrong? What ambushes are likely?
+11. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
+12. Review your OPERATING STANCE
 
 ### 🛡️ STANDING ORDERS & OPERATING STANCE
 
@@ -529,7 +530,7 @@ Conduct this after most work is done, but at least two hours before you disengag
 2. Review the DUSK WATCH CONTEXT PAGE
 3. Review recent GENERAL LOG entries 
 4. 🧠 Logging and Debriefing
-  Record new events in the  INCIDENT LOG and GENERAL LOG 
+  Record new events in the  INCIDENT LOG and GENERAL LOG
   
   * observations, insights
   * completed missions 
@@ -546,7 +547,7 @@ Conduct this after most work is done, but at least two hours before you disengag
   * Environment scanned: any signs of degradation?
   * Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
 
-6. 🧭 INTELLIGENCE UPDATES
+6. 🧭 INTELLIGENCE
   Review your BRANCH table and any relevant DAGGER charts, and update them as needed with new information.
 
 7. ⏰ FINAL PREPARATIONS
