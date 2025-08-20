@@ -108,9 +108,19 @@ Many tasks do not need to be done until another task is done or a specific event
 While it is often beneficial to do tasks in advance, knowing what must be done immediately is still important.
 
 When a task does not become relevant until a specific event happens, note it with a b., indicating 
-Blocked or Before.
+"Blocks" or Before.
 
 If you need ink to print a flyer, you might note the task as "Design Flyer b. ink"
+
+It would likely be preferable to complete the task before the blocker, so you
+have the option of getting started on the next step immediately.
+
+This is not the same as adding a deadline to a task, because it does not denote when
+the task needs to be done- it only indicates that the next step can't start until the blocker is
+resolved.  
+
+It is also not the same as a start time.  Nothing prevents you from completing the task now,
+but it might not create value untill the blocker is resolved.
 
 ### Categorization
 
