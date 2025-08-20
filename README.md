@@ -526,36 +526,18 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
 
-1. FATIGUE DUTY review: Was each recurring duty completed? If not, why?
+1. Review FATIGUE DUTY
 2. Review the DUSK WATCH CONTEXT PAGE
-3. Review recent GENERAL LOG entries 
-4. 🧠 Logging and Debriefing
-  Record new events in the  INCIDENT LOG and GENERAL LOG
-  
-  * observations, insights
-  * completed missions 
-  * current processes that leave room for errors
-  * tasks that are still undone
-
-
-5.  🔐 SECURITY & SUPPLY ROUND
-  Secure the environment and restore the base with another sweep of the environment.
-  
-  * Doors locked, tools powered down, hazards cleared
-  * Devices charged, gear cleaned or stowed
-  * Supplies checked, groceries listed, repairs noted
-  * Environment scanned: any signs of degradation?
-  * Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
-
-6. 🧭 INTELLIGENCE
-  Review your BRANCH table and any relevant DAGGER charts, and update them as needed with new information.
-
-7. ⏰ FINAL PREPARATIONS
-  Set all needed alarms, alerts, and reminders, and ensure that any items needed to tomorrow are ready to go.
-  
-  Leave guidance or notes in the GENERAL LOG, or in your normal calendar or todo lists system for the next DAWN BRIEFING
-
-7. ❤️ Review the MESS HALL document and consider taking self care actions.
+3. Review recent GENERAL LOG entries
+4. Record new events in the INCIDENT LOG and GENERAL LOG
+5. Review your BRANCH table and any relevant DAGGER charts
+6. Set all needed alarms, alerts, and reminders, and ensure that any items needed tomorrow are ready to go.
+7. Review the MESS HALL document and consider taking self care actions.
+8. Make Another sweep of the environment:
+9. Doors locked, tools powered down, hazards cleared?
+10. Devices charged, gear cleaned or stowed?
+11. Supplies checked, groceries listed, repairs noted?
+12. Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
 
 > All posts accounted for. Patrols stood down. Perimeter secure.
 
