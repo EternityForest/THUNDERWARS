@@ -102,6 +102,15 @@ If a task can be done now (under 2 minutes), do it immediately rather than writi
 #### Short Form:
 Keep entries brief (one short line). More detail goes in the context section if needed.
 
+### Blocked/Before Items
+
+Many tasks do not need to be done until another task is done or a specific event occurs.
+While it is often beneficial to do tasks in advance, knowing what must be done immediately is still important.
+
+When a task does not become relevant until a specific event happens, note it with a b., indicating 
+Blocked or Before.
+
+If you need ink to print a flyer, you might note the task as "Design Flyer b. ink"
 
 ### Categorization
 
@@ -585,6 +594,9 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * Any consistently neglected tasks?
 * What RUINOUS SYSTEMS may be affecting you at present?
 
+### Task Management
+* What tasks are currently blocked on something else?
+* What has recently become unblocked?
 
 ### 🛠️ STRATEGIC ADJUSTMENTS
 
