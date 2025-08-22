@@ -587,6 +587,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * Any untracked or creeping obligations forming?
 * Any consistently neglected tasks?
 * What RUINOUS SYSTEMS may be affecting you at present?
+* Am I copying, taking on, or absorbing inappropriate attitudes, thoughts, or feelings from anywhere?
+
 
 ### Task Management
 * What tasks are currently blocked on something else?
@@ -598,6 +600,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * What unused resources, spaces, or abilities have you noticed that you could apply?
 * Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?
 * Are any small details either being ignored or consuming more time than they should be?
+* If I am waiting on a question, what can I do now that will still be useful regardless of the answer?
+
 
 ### 🎯 NEXT WEEK'S DIRECTIVES
 * What are your key missions or events?
