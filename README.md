@@ -597,6 +597,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * What do you want to change about your approach or posture next week?
 * What unused resources, spaces, or abilities have you noticed that you could apply?
 * Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?
+* Are any small details either being ignored or consuming more time than they should be?
 
 ### 🎯 NEXT WEEK'S DIRECTIVES
 * What are your key missions or events?
