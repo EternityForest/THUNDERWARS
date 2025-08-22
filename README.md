@@ -676,21 +676,21 @@ Benefit: builds tolerance to stress, inoculates against overload and avoidance.
 
 ### Situational Awareness Drills
 
-• In a building you recently visited, where are the exits and bathrooms?
-• What is above your head and near the floor?
-• In the last place you were around people, who looked confident and who looked stressed or out of place?
-• What can you infer about your environment from a small detail?
-• What is missing in your environment that you would expect or want to be there?
-• What is the likely cause of some small clue(a noise, smell, etc) and what is likely to follow from it?
-•  What two things have you noticed recently that did not match, and what could that mean?
-•  Take three random details from your day and find the story they imply
+* In a building you recently visited, where are the exits and bathrooms?
+* What is above your head and near the floor?
+* In the last place you were around people, who looked confident and who looked stressed or out of place?
+* What can you infer about your environment from a small detail?
+* What is missing in your environment that you would expect or want to be there?
+* What is the likely cause of some small clue(a noise, smell, etc) and what is likely to follow from it?
+* What two things have you noticed recently that did not match, and what could that mean?
+* Take three random details from your day and find the story they imply
 
 
 ### Strategy Drills
 
-• How would you have handled a recent challenge without the tool or method that you used?
-• How would you have done a recent project with half the time or half the resources?
-• If someone was trying to sabotage you right now, what would they do?
+* How would you have handled a recent challenge without the tool or method that you used?
+* How would you have done a recent project with half the time or half the resources?
+* If someone was trying to sabotage you right now, what would they do?
 
 
 ### 👁️ The Quiet Eye Discipline
