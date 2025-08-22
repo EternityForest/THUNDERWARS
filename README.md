@@ -663,6 +663,86 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 5. Check off and record completed items in the GENERAL LOG
 
 
+## The Training Grounds
+
+These exercises can be done at any time.
+
+
+### Willpower Sparring (Micro-Stress Tests)
+
+Practice: deliberately choose 1–2 small discomforts daily (cold rinse, finishing boring chore, delaying a craving).
+
+Benefit: builds tolerance to stress, inoculates against overload and avoidance.
+
+### Situational Awareness Drills
+
+• In a building you recently visited, where are the exits and bathrooms?
+• What is above your head and near the floor?
+• In the last place you were around people, who looked confident and who looked stressed or out of place?
+• What can you infer about your environment from a small detail?
+• What is missing in your environment that you would expect or want to be there?
+• What is the likely cause of some small clue(a noise, smell, etc) and what is likely to follow from it?
+•  What two things have you noticed recently that did not match, and what could that mean?
+•  Take three random details from your day and find the story they imply
+
+
+### Strategy Drills
+
+• How would you have handled a recent challenge without the tool or method that you used?
+• How would you have done a recent project with half the time or half the resources?
+• If someone was trying to sabotage you right now, what would they do?
+
+
+### 👁️ The Quiet Eye Discipline
+
+Quiet Eye training is used in many seemingly unrelated fields, from sports to healthcare and law enforcement.
+
+####  1. Fixed Gaze
+
+> The warrior anchors their mind, and does not turn away from the fearsome sight
+
+Practice: hold eyes steady on a single point (dot, mark, flame).
+
+Purpose: lengthens focus, reduces wandering attention.
+
+
+#### 2. Tracking
+
+Practice: follow a moving object smoothly (pendulum, thrown ball, person walking).
+
+Purpose: improves hand–eye coordination and predictive timing.
+
+Analogy: shadowing an enemy’s blade, or a hawk tracking prey.
+
+
+
+#### 3. Pre-Action Focus
+
+> The archer makes sure of his aim before he fires
+
+Practice: pause to fix your gaze on the critical spot before moving (foot placement before stepping, handle before grasping, text before writing).
+
+Purpose: strengthens decision–action coupling; reduces clumsy errors.
+
+
+#### 4. Peripheral Expansion
+
+> The ranger knows the changing conditions of battle 
+
+Practice: soften your focus and notice the whole scene — awareness of motion, shapes, colors at the edge of vision.
+
+Purpose: prevents tunnel vision; increases situational awareness.
+
+
+#### 5. Shift Control
+
+> The good scout finds what is hidden and examines it closely 
+
+Practice: deliberately switch between tight focus, as in Tracking or Fixed Gaze, and wide awareness.
+
+Purpose: agility of attention; flexible mind under pressure.
+
+
 ## FIELD BOOK
 
 The paper version of this system uses Personal size pages, commonly (and incorrectly) known as A6, combined with postcard sized 4x6 cards, which may be backed with 3M restickable or Aileens Tack it Over and Over.
