@@ -589,6 +589,37 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * What RUINOUS SYSTEMS may be affecting you at present?
 * Am I copying, taking on, or absorbing inappropriate attitudes, thoughts, or feelings from anywhere?
 
+### Spycraft Check
+
+#### Local World 
+
+* Who near me usually knows what’s happening soon? Have I checked with them?
+* What events, festivals, or meetups were mentioned in passing this week?
+* What changes did I notice on my block, at local shops, or in the neighborhood? 
+• What changes have I noticed with relatives, friends, or close contacts?
+
+#### Mission Zone
+
+* Did I hear of new deals, contracts, or clients that will shift focus?
+* Who has ‘soft info’ (rumors, early signals) that could affect priorities?
+* What problems did someone brush off with ‘not a big deal’? Could it be bigger?
+
+#### Silent Signals
+
+* Who seemed stressed, absent, or unusually quiet? Did I ask why?
+* What’s missing from the usual flow of updates?
+* Is there a policy or system I depend on that hasn’t been mentioned in a while?
+
+#### Personal Connections
+
+* Who haven’t I checked in with directly that I rely on for awareness?
+* What one-on-one conversation could give me clarity that group channels won’t?
+
+
+#### Actionable Steps
+
+* What small question can I ask someone this week that could reveal hidden information?
+* What intel do I need before the next decision point?
 
 ### Task Management
 * What tasks are currently blocked on something else?
