@@ -625,6 +625,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 ### Task Management
 * What tasks are currently blocked on something else?
 * What has recently become unblocked?
+* Is there sufficient slack time to handle unforseen events?
 
 ### 🛠️ STRATEGIC ADJUSTMENTS
 
@@ -742,6 +743,40 @@ Purpose: prevents tunnel vision; increases situational awareness.
 Practice: deliberately switch between tight focus, as in Tracking or Fixed Gaze, and wide awareness.
 
 Purpose: agility of attention; flexible mind under pressure.
+
+### Time Awareness Drills 
+> Polychronic Training for Monochronic Minds
+
+#### Buffer Discipline Drill
+
+Setup: Block 30–60 minutes in your planner but label it only as "flex time".
+
+Rule: You cannot pre-plan it. When you reach it, you must choose what to do on the spot, avoiding any RUINOUS SYSTEM habits and unenjoyable "counterfiet liesure".
+
+Difficulty upgrade: Roll a die or flip a coin to decide whether you use it for rest, socializing, or a small useful task.
+
+
+#### Incomplete Information Drill
+
+Setup: Pick a small project, like drawing a picture, with low stakes and low potential material waste, but forbid yourself from having all the details in advance or doing any research before physically starting.
+
+Rule: Start anyway, filling in missing pieces as you go.
+
+Goal: Reduce paralysis when plans aren’t fully clear.
+
+
+#### Event-Based Timing Drill
+
+Setup: Choose a non-critical task to schedule not by the clock, but by events (e.g., “after I eat,” “before the sun sets,” “once I’ve spoken to X”).
+
+Note that this type of plan does *not* count as "reachability", at least not consistently for all people, and should not be intentionally relied on for
+anything critical.
+
+Rule: No exact times allowed, only relationships.
+
+Goal: Loosen dependence on clock precision and learn to feel time in a more organic rhythm.
+
+
 
 
 ## FIELD BOOK
