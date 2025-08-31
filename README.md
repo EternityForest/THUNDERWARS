@@ -527,18 +527,19 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
 
-1. Review FATIGUE DUTY
-2. Review the DUSK WATCH CONTEXT PAGE
-3. Review recent GENERAL LOG entries
-4. Record new events in the INCIDENT LOG and GENERAL LOG
-5. Review your BRANCH table and any relevant DAGGER charts
-6. Set all needed alarms, alerts, and reminders, and ensure that any items needed tomorrow are ready to go.
-7. Review the MESS HALL document and consider taking self care actions.
-8. Make Another sweep of the environment:
-9. Doors locked, tools powered down, hazards cleared?
-10. Devices charged, gear cleaned or stowed?
-11. Supplies checked, groceries listed, repairs noted?
-12. Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
+1. Make Another sweep of the environment:
+2. Doors locked, tools powered down, hazards cleared?
+3. Devices charged, gear cleaned or stowed?
+4. Supplies checked, groceries listed, repairs noted?
+5. Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
+6. Review FATIGUE DUTY
+7. Review the DUSK WATCH CONTEXT PAGE
+8. Review recent GENERAL LOG entries
+9. Record new events in the INCIDENT LOG and GENERAL LOG
+10. Review your BRANCH table and any relevant DAGGER charts
+11. Set all needed alarms, alerts, and reminders, and ensure that any items needed tomorrow are ready to go.
+12. Review the MESS HALL document and consider taking self care actions.
+
 
 > All posts accounted for. Patrols stood down. Perimeter secure.
 
