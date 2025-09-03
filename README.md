@@ -172,6 +172,9 @@ Use this especially when:
 This is a unified chart of everything that's going on in the medium term, good or bad, that is bigger than just a simple to-do list entry.
 
 It can also contain smaller things, if you are attempting to analyze and reveal interconnectedness in a complex situation with many pieces.
+
+If using paper, this system seems to work much better with sticky notes or cards rather
+than just writing on paper.
  
 Every entry should have:
 
@@ -782,7 +785,35 @@ Goal: Loosen dependence on clock precision and learn to feel time in a more orga
 
 ## FIELD BOOK
 
-The paper version of this system uses Personal size pages, commonly (and incorrectly) known as A6, combined with postcard sized 4x6 cards, which may be backed with 3M restickable or Aileens Tack it Over and Over.
+The "standard" form of paper version of this system uses Personal size pages, commonly (and incorrectly) known as A6.
+
+
+### Standard Supplies 
+
+### Personal Size 6 ring planner
+
+### 0.9mm mechanical pencil
+Preferably the Sakura Sumogrip or similar. 0.9 is chosen because it
+is much more durable and reliable than 0.5 or 0.7, and is now widely available.
+
+### 1.5x2" sticky notes
+
+These smaller notes are perfect for things like the BRANCH table which may change
+regularly, and can also be used to attach reminders to objects, although for many
+people this should not be relied as they may go unnoticed.
+
+### Tab Dividers
+
+### Storage pouch page
+
+This is important for keeping track of your sticky notes. 
+Often included with planner kits.
+
+### Today marker ruler
+For quick access in the GENERAL LOG, often included with planner kits.
+
+
+
 
 There should be 5 tabs:
 
