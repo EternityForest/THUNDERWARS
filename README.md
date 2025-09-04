@@ -53,7 +53,13 @@ All important items must be **explicitly linked** to a "root" that you are confi
   - **Essential physical tabs** in your Field Book
   - Timed electronic reminders
 
+"Implementation Intentions" of the form "When X I will Y" are considered by some to be highly useful for replacing old
+habits and forming new ones, but they do not guarantee the level of reachability needed for critical tasks.
+
+Use them, but also be aware than anyone can just about anything at any time, and take measures to keep track of what matters.
+
 No critical item should ever “float” without a path from a root — otherwise it becomes *unreachable* and effectively lost.
+
 
 **Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
@@ -254,6 +260,7 @@ For smaller projects it may still be useful to review the list even if you do no
 * What are the next actionable steps to completing the task?
 * Can or should this project or desired new behavior be reinforced by attaching it to something you already do?
 * Can this be scheduled for a specific time, or as a recurring event?
+* What specific positive Implementation Intentions (When/If X, I will Y) can you form about this?
 
 ### 🛡 DEFENSIVE STRATEGY    
       
