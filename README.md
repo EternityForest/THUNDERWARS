@@ -54,6 +54,15 @@ No critical item should ever “float” without a path from a root — otherwis
 
 **Why:** This ensures nothing important disappears into the cracks, no matter how chaotic life gets.
 
+### Do the Hardest Thing First
+
+Most ordered steps are designed to get the most unpleasant task out of the way
+first, unless there is some specific reason to do things in some other order.
+
+This seems to be a popular approach with some productivity experts, and has the objective
+benefit of giving you an obvious, repeatable method for choosing what order to do tasks in,
+which can sometimes be more stressful tuan actually doing the chores.
+
 ### CAPTURE DOCTRINE
 
 Nothing important should exist entirely in your head. Document things immediately when you think of them,
