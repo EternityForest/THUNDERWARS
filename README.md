@@ -20,6 +20,9 @@ Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
+## Version 0.1.0 dev
+This is a development version, it may change without incrementing the version number,
+as long as "dev" is included.
 
 ## Design Principles
 
@@ -184,6 +187,9 @@ It can also contain smaller things, if you are attempting to analyze and reveal 
 
 If using paper, this system seems to work much better with sticky notes or cards rather
 than just writing on paper.
+
+If handwriting, the title or name of every entry should be underlined or
+otherwise highlighted, without structure it can become confusing and hard to read.
  
 Every entry should have:
 
@@ -984,3 +990,14 @@ When pages are fully complete or unlikely to be used again soon, transfer them t
 
 “Leave no thought behind. Every battle fought teaches the next one.”
 
+## Administrative 
+
+### Typography
+The official font is Ovo for body text, and Black Ops One for headings.
+
+Headings level 1 and 2 should be centered, all lower level headings should 
+be right-aligned.
+
+### Semantic Versioning 
+
+This project uses SemVer for version number.
