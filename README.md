@@ -705,13 +705,39 @@ Benefit: builds tolerance to stress, inoculates against overload and avoidance.
 ### Situational Awareness Drills
 
 * In a building you recently visited, where are the exits and bathrooms?
-* What is above your head and near the floor?
+* What is above your head and near the floor? What is to the left and right? What is on your person?
 * In the last place you were around people, who looked confident and who looked stressed or out of place?
 * What can you infer about your environment from a small detail?
 * What is missing in your environment that you would expect or want to be there?
 * What is the likely cause of some small clue(a noise, smell, etc) and what is likely to follow from it?
 * What two things have you noticed recently that did not match, and what could that mean?
 * Take three random details from your day and find the story they imply
+
+### Attention Tunneling Prevention Drills
+
+#### One more around the bend
+
+Whenever you notice a potential problem of any kind, try to think
+of one more potential problem you haven't noticed.  The period 
+just after mitigating the first one is dangerous, because it is
+easy to forget that other less obvious problems exist.
+
+Practice by thinking of some recent problems you have noticed,
+and finding a matching paired issue in the same situation, ideally in a 
+completely different category.  
+
+If you found an empty soap dispenser, could anything else about the dispenser
+be an issue?  If a stack of papers by the heater is a fire hazard, is there something
+in those papers you forgot?
+
+
+#### Interrupt Recovery 
+
+Whenever you are interrupted for any reason, always ask what happened and what you were doing
+before you were interrupted.
+
+Practice by choosing three events and identifying what happened before them.
+
 
 
 ### Strategy Drills
