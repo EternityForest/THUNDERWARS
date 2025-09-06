@@ -520,7 +520,7 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 ### Inspection
 1. Brief Sweep of the Physical Environment
 
-### Review?
+### Review
 1. Review your OPERATING STANCE
 2. Review DAWN CONTEXT PAGE
 3. What obligations, meetings, or events are there today?
