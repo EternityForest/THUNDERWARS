@@ -20,7 +20,7 @@ Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
-## Version 0.1.0 dev
+## Version 0.2.0 dev
 This is a development version, it may change without incrementing the version number,
 as long as "dev" is included.
 
@@ -511,24 +511,33 @@ Record successful or unsuccessful completion of missions and all notable changin
 
 ## 🌅 DAWN BRIEFING
 
-You Have Been Drafted
+> You Have Been Drafted
 
 Conduct this review around breakfast or before you begin your day’s first duties.
 
 Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 
+### Inspection
 1. Brief Sweep of the Physical Environment
-2. What missions are underway? What’s the next move?
-3. Review the recent General Log
-4. Review any calendars or todo lists you keep.
-5. Review Recent GENERAL LOG notes
-6. Recall the day's plans, obligations, meetings, and events
-7. Review DAWN CONTEXT PAGE
+
+### Review?
+1. Review your OPERATING STANCE
+2. Review DAWN CONTEXT PAGE
+3. What obligations, meetings, or events are there today?
+4. What missions are underway?
+5. What’s the next actionable step for each?
+6. Review any calendars or todo lists you keep.
+7. Review Recent GENERAL LOG notes
 8. Review FATIGUE DUTY Chart
-9. Record Today’s Intentions. Consult BRANCH if in any doubt.
-10. Expected Hazards and Traps: What might go wrong? What ambushes are likely?
-11. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
-12. Review your OPERATING STANCE
+9. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
+
+### Planning 
+1. Record Today’s Intentions. Consult BRANCH if in any doubt.
+2. Expected Hazards and Traps: What might go wrong? What ambushes are likely?
+
+
+> Standby.... Ready..... GO!
+
 
 ### 🛡️ STANDING ORDERS & OPERATING STANCE
 
@@ -546,24 +555,32 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
   * Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
   * Do things right away, or make a note to do things, as soon as you notice them
 
-> Standby.... Ready..... GO!
 
 ## 🌇 DUSK WATCH
 
 Conduct this after most work is done, but at least two hours before you disengage from the day. This is your final command meeting.
 
+### Inspection and Harbor Stow
 1. Make Another sweep of the environment:
 2. Doors locked, tools powered down, hazards cleared?
 3. Devices charged, gear cleaned or stowed?
 4. Supplies checked, groceries listed, repairs noted?
 5. Half-completed tasks: Is there laundry in the washer? Has anything been started but not completed?
-6. Review FATIGUE DUTY
-7. Review the DUSK WATCH CONTEXT PAGE
-8. Review recent GENERAL LOG entries
-9. Record new events in the INCIDENT LOG and GENERAL LOG
-10. Review your BRANCH table and any relevant DAGGER charts
-11. Set all needed alarms, alerts, and reminders, and ensure that any items needed tomorrow are ready to go.
-12. Review the MESS HALL document and consider taking self care actions.
+
+### Review
+1. Review FATIGUE DUTY
+2. Review the DUSK WATCH CONTEXT PAGE
+3. Review recent GENERAL LOG entries
+4. Review your BRANCH table and any relevant DAGGER charts
+
+### Debrief
+1. Record new events in the INCIDENT LOG and GENERAL LOG.  Try to log at least one notable event.
+
+### Preparation
+1. Set all needed alarms, alerts, and reminders
+2. Record any known tasks and intentions for tomorrow
+3. Ensure that any items or clothes needed tomorrow are ready to go
+4. Review the MESS HALL document and consider taking self care actions
 
 
 > All posts accounted for. Patrols stood down. Perimeter secure.
@@ -584,7 +601,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 ### 📚 DOCUMENT REVIEW
 
-* Review your CONTEXT PAGES including infrequently used ones.
+* Review the SWORDPOINT CONTEXT PAGE
+* Review your other CONTEXT PAGES including infrequently used ones.
 * Review the THUNDERWARS cheat sheet.
 * Do any Standing Orders need review or reinforcement?
 * Should your FATIGUE DUTY or MESS HALL charts be adjusted?
