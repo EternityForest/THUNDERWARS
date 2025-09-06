@@ -20,7 +20,7 @@ Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
-## Version 0.2.0 dev
+## Version 0.21.0 dev
 This is a development version, it may change without incrementing the version number,
 as long as "dev" is included.
 
@@ -669,6 +669,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 ### Task Management
 * What tasks are currently blocked on something else?
 * What has recently become unblocked?
+* If I am waiting on a question, what can I do now that will still be useful regardless of the answer?
 * Is there sufficient slack time to handle unforseen events?
 
 ### 🛠️ STRATEGIC ADJUSTMENTS
@@ -677,7 +678,6 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * What unused resources, spaces, or abilities have you noticed that you could apply?
 * Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?
 * Are any small details either being ignored or consuming more time than they should be?
-* If I am waiting on a question, what can I do now that will still be useful regardless of the answer?
 
 
 ### 🎯 NEXT WEEK'S DIRECTIVES
@@ -687,7 +687,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 ### LONG TERM ALIGNMENT
 * What kind of person do you intend to become?
-* Review Charter of the Realm
+* Review your CHARTER OF THE REALM
 * What "someday" projects would you like to eventually work on?
 * What are your current top goals?
 * What steps have you taken this week towards your goals?
