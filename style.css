@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Ovo";
+    src: url(./Ovo-Regular.ttf);
+}
+
+@font-face {
+    font-family: "BlackOpsOne";
+    src: url(./BlackOpsOne-Regular.ttf);
+}
+
+
+body{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Ovo;
+
+    width: 36rem;
+    margin: 0 auto;
+    padding: 1rem;
+}
+h1, h2{
+font-family: BlackOpsOne;
+font-weight: normal;
+}
+
+
+blockquote{
+    opacity: 0.7;
+    font-style: italic;
+    font-size: 1.2rem;
+}

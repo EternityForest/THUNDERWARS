@@ -921,9 +921,9 @@ This gets it's own section in the back, for quick access without imposing too mu
 
 ### Symbols
 
-![Bullet Journal Common Symbols](/img/bujo_symbols.png)
+![Bullet Journal Common Symbols](./img/bujo_symbols.png)
 
-## Charter of the Realm
+## CHARTER OF THE REALM
 
 To aid in prioritizing projects and goals, consider your thoughts on these matters, keeping in mind that you may have to discover them over time, and taking care not to lock yourself into an unhealthy self image.
 
@@ -933,23 +933,23 @@ To aid in prioritizing projects and goals, consider your thoughts on these matte
 
 Your moral compass, virtues you fight for
 
-### Favored Arts 
+### Favored Arts
 
 > "I hold these favored arts in trust, knowing they have served me well in times past. Yet I remain mindful that even the surest hand may falter.  Thus I pledge to wield my strengths with care, lest they endanger those I am sworn to protect."
 
 Your "Core Competencies", bearing ever in mind that they may change.
 
-### Standing Orders 
+### Standing Orders
 
 > "When the horns sound and the fog of battle covers all, still the golden path shines clear."
 
 Non-negotiable rules you always follow
 
-### Victory Conditions 
+### Victory Conditions
 
 What “winning” in life means to you
 
-### Banned Tactics 
+### Banned Tactics
 
 > "Some weapons I leave to rust"
 
