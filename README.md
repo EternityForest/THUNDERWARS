@@ -1030,12 +1030,12 @@ Data you may need without load times (maps, quick reference tables, visual mnemo
 
 ## 📦 ARCHIVE
 
-Step 1: Field Archive
+### Step 1: Field Archive
 
 
 When a page is no longer active but may still be referenced soon (e.g. last week’s BRANCH, recent gear logs, completed DAGGERs), move it to the rear of your FIELD BOOK, after your spare blank pages. This keeps it accessible, but out of your working tabs.
 
-Step 2: Deep Archive
+### Step 2: Deep Archive
 
 When pages are fully complete or unlikely to be used again soon, transfer them to your archive box or binder at base. File by section or date for long-term reflection, incident tracking, or post-mission analysis.
 
