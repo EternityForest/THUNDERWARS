@@ -20,9 +20,9 @@ Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
 
-## Version 0.21.0 dev
+## Version 0.22.0 dev
 This is a development version, it may change without incrementing the version number,
-as long as "dev" is included.
+as long as "dev" is included, although it ideally should not.
 
 ## Design Principles
 
@@ -222,11 +222,18 @@ For minimal friction, use abbreviations. 1d, 1w, 1m, 1y, etc, for days, weeks, m
 
 ###  Strategic Impact
 
- Why this matters to the realm overall. How it connects to long-term stability or growth, or what might happen if you fail in this area
+ Why this matters to the realm overall. How it connects to long-term stability or growth, or what might happen if you fail in this area.
 
 ### Primary Challenge
 
 The main obstacle or risk, not necessarily an “enemy strategy", although it may be.
+
+### Strategy Outline
+
+What are you going to do about this project?  What could make the task easier?
+How will you stay motivated, and failing that, disciplined?   
+
+Can an Implementation Intention(If X, I will Y) be used as part of your strategy?
 
 
 ## DAGGER 
