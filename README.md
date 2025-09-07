@@ -525,11 +525,12 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
 2. Review DAWN CONTEXT PAGE
 3. What obligations, meetings, or events are there today?
 4. What missions are underway?
-5. What’s the next actionable step for each?
-6. Review any calendars or todo lists you keep.
-7. Review Recent GENERAL LOG notes
-8. Review FATIGUE DUTY Chart
-9. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
+5. Take a quick glance at your BRANCH chart
+6. What’s the next actionable step for each?
+7. Review any calendars or todo lists you keep.
+8. Review Recent GENERAL LOG notes
+9. Review FATIGUE DUTY Chart
+10. Review MESS HALL: What morale, nutrition, or recovery actions are needed?
 
 ### Planning 
 1. Record Today’s Intentions. Consult BRANCH if in any doubt.
