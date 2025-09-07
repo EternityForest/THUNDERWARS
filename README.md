@@ -7,6 +7,8 @@
 
 > You Have Been Drafted.
 
+**Version 0.22.1 dev**
+
 ---------------------------------
 
 
@@ -19,10 +21,6 @@ Maintain an INCIDENT LOG and GENERAL LOG.
 Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
-
-## Version 0.22.0 dev
-This is a development version, it may change without incrementing the version number,
-as long as "dev" is included, although it ideally should not.
 
 ## Design Principles
 
@@ -72,7 +70,7 @@ This seems to be a popular approach with some productivity experts, and has the 
 benefit of giving you an obvious, repeatable method for choosing what order to do tasks in,
 which can sometimes be more stressful tuan actually doing the chores.
 
-### CAPTURE DOCTRINE
+## CAPTURE DOCTRINE
 
 Nothing important should exist entirely in your head. Document things immediately when you think of them,
 so they are not forgotten.  
@@ -87,7 +85,7 @@ If something will take less than 2 minutes, just do it instead of recording it, 
 on your mind at once, then record them to avoid forgetting them.
 
 
-## CONTEXT page
+## CONTEXT pages
 
 A context page contains checklist items and notes that should be referred to when doing a certain action or at a certain time.
 
@@ -244,8 +242,9 @@ For long term, difficult, or confusing tasks, record the answers to any relevant
 
 For smaller projects it may still be useful to review the list even if you do not decide to create a report.
 
+### Core Questions
 
-### 🎯 MISSION OBJECTIVE
+#### 🎯 MISSION OBJECTIVE
 
 * What is your immediate goal?
 * How will you know that you have at least succeeded in the short term?
@@ -254,14 +253,14 @@ For smaller projects it may still be useful to review the list even if you do no
 * Could any aspect of the goal or plan itself have been influenced or compromised by an enemy?
 
 
-### 💥 CONSEQUENCES
+#### 💥 CONSEQUENCES
 
 * What are you likely to lose if you fail this mission?
 * What are you likely to gain if you succeed?
 * How does this project align or not align with your values?
 
 
-### 🔥 OFFENSIVE STRATEGY
+#### 🔥 OFFENSIVE STRATEGY
 
 * What other tasks will be made possible or easier by completing the mission?
 * What are the next actionable steps to completing the task?
@@ -269,8 +268,8 @@ For smaller projects it may still be useful to review the list even if you do no
 * Can this be scheduled for a specific time, or as a recurring event?
 * What specific positive Implementation Intentions (When/If X, I will Y) can you form about this?
 
-### 🛡 DEFENSIVE STRATEGY    
-      
+#### 🛡 DEFENSIVE STRATEGY
+
 * What physical, social, or procedural changes will make it easier to complete the mission?
 * What will you no longer accept?
 * What traps or hazards are likely active on this mission?
@@ -279,8 +278,6 @@ For smaller projects it may still be useful to review the list even if you do no
 * Are there unaddressed emotional or morale issues connected to this mission?
 * Is there a reason this has not been done already?
 * Are any trivial or unimportant aspects of the project consuming more time and resources than they should be?
-
-
 * What critical sections cannot be easily or safely paused?
 * What items, skills, or people are most critical?
 * What is most likely to go wrong?
@@ -291,19 +288,20 @@ For smaller projects it may still be useful to review the list even if you do no
 * What unproven assumptions do you have about the project?
 * How should disruptive changes resulting from this mission be managed?
 
-### 🎒 SUPPLIES & SUPPORT
+#### 🎒 SUPPLIES & SUPPORT
 
 * What tools, reminders, or allies will you employ?
 * Who do you need to coordinate with?
 
-### 🧪 TRAINING
+#### 🧪 TRAINING
 
 * What knowledge, habits, or discipline must be improved?
 
+### THREAT HABITS
 
 If the mission relates to dismantling a THREAT HABIT, review these additional questions:
 
-### ☠️ CRIMES
+#### ☠️ CRIMES
 
 * What has this enemy already taken from you?
 * In what ways does this enemy cause you to betray your values?
@@ -311,12 +309,12 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 * What strategy does this enemy use to destroy you?
 * At what times is this enemy typically active?
 
-### 🔨 JUSTICE
+#### 🔨 JUSTICE
 
 * How will you actively repair the damage that this habit has caused?
 * What will you build that this enemy does not want you to?
 
-### 🕵️‍♂️ INTEL
+#### 🕵️‍♂️ INTEL
 
 * Is this habit serving a larger system that profits from your decay?
 * What feedback loops or vicious cycles does this enemy create to preserve itself?
@@ -324,19 +322,19 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 * Does the habit serve some useful or necessary function that must be replaced with a healthier alternative?
 * Did this habit serve some useful function at one time, which no longer applies?
   
-## FIELD OPS
+### FIELD OPS
 
 For specific, focused missions like preparing for an important meeting, use the additional FIELD OPS questions:
 
 
-### 🧠 PREPARATION
+#### 🧠 PREPARATION
 * Have you done a mental walkthrough of the full mission?
 * Have you checked the weather report?
 * Have you performed a dry run or test (e.g. equipment, presentation)?
 * If you had to deploy right now, what would be missing?
 
 
-### ⚙️ GEAR
+#### ⚙️ GEAR
 * Is all gear packed, charged, and weather-ready?
 * Do you know what you will be wearing?
 * Do you have all required medical, hygiene, or comfort items?
@@ -345,22 +343,22 @@ For specific, focused missions like preparing for an important meeting, use the 
 * Are any critical documents backed up on paper?
 * Are digital files in the right formats, folders, and accessible offline?
 
-### 🚗 TRANSPORT & TIMING
+#### 🚗 TRANSPORT & TIMING
 * What is your departure time, and how was it calculated?
 * Do you know exactly where to go, how to get there, and what door to enter?
 * Is your arrival window realistic (traffic, parking, check-in)?
 * Have you double-checked timezones, calendars, and alarms?
 * When does the operation end, and how will you leave the site?
 
-### 🛠️ EXECUTION
+#### 🛠️ EXECUTION
 * Will you have access to power, internet, and credentials?
 * Will you be able to take breaks or eat if the op runs long?
 
-### 🗣️ COMMUNICATION
+#### 🗣️ COMMUNICATION
 * How will you maintain contact with allies or support?
 * Do you need to delegate anything or request backup?
 
-### 🧹 TEARDOWN & RECOVERY
+#### 🧹 TEARDOWN & RECOVERY
 * Have you planned to recover all gear or borrowed items?
 * Is there a gear checklist for teardown?
 * What needs to be cleaned, reset, logged, repacked, or uploaded?
@@ -443,8 +441,9 @@ For unforseen problems, psychological ambushes, or emotional overwhelm.
 * If there are blocking issues stopping the entire project, pick an some other productive task.
 
 
+## Important Pages
 
-## FATIGUE DUTY chart
+### FATIGUE DUTY chart
 
 For each regular and recurring task that must be performed, list:
 
@@ -454,9 +453,22 @@ For each regular and recurring task that must be performed, list:
 Critical and time sensitive tasks should be tracked with an automatically repeating electronic reminder.
 
 
-## MESS HALL
+### MESS HALL
 
 List any self care practices you intend to perform regularly as needed.
+
+### LOGISTICS CHART
+
+
+Record:
+* Items that need to be purchased in the near future
+* Items in need of repairs or unscheduled maintenance not listed in FATIGUE DUTY.
+* Items or empty spaces that are notably currently not being used or that you intend to do something with
+
+### GENERAL LOG
+
+
+Record successful or unsuccessful completion of missions and all notable changing conditions, along with notes from the DAWN BRIEFING and DUSK WATCH
 
 
 ## The INCIDENT LOG 
@@ -500,20 +512,6 @@ Identify and record:
 * How the error could have been detected earlier
 
 
-## LOGISTICS CHART
-
-
-Record:
-* Items that need to be purchased in the near future
-* Items in need of repairs or unscheduled maintenance not listed in FATIGUE DUTY.
-* Items or empty spaces that are notably currently not being used or that you intend to do something with
-
-
-
-### GENERAL LOG
-
-
-Record successful or unsuccessful completion of missions and all notable changing conditions, along with notes from the DAWN BRIEFING and DUSK WATCH
 
 
 ## 🌅 DAWN BRIEFING
