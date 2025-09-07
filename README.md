@@ -185,15 +185,10 @@ Use this especially when:
 
 > Battlefield Reconnaissance and Necessary Changes to Habits.
 
-This is a unified chart of everything that's going on in the medium term, good or bad, that is bigger than just a simple to-do list entry.
-
-It can also contain smaller things, if you are attempting to analyze and reveal interconnectedness in a complex situation with many pieces.
+This is a unified chart of everything that's going on in the medium term, good or bad, that is bigger than just a simple to-do list entry.  It can contain big things, or smaller things, if you are attempting to analyze and reveal interconnectedness in a complex situation with many pieces.
 
 If using paper, this system seems to work much better with sticky notes or cards rather
-than just writing on paper.
-
-If handwriting, the title or name of every entry should be underlined or
-otherwise highlighted, without structure it can become confusing and hard to read.
+than just writing on paper. If handwriting, the title or name of every entry should be underlined or otherwise highlighted, without structure it can become confusing and hard to read.
  
 Every entry should have:
 
