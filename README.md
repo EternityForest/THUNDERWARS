@@ -363,6 +363,10 @@ For specific, focused missions like preparing for an important meeting, use the 
 
 (For reviewing missions, projects, and major events — victories or defeats)
 
+Debrief reports may be done in a digital note, on the CONTEXT page used to olan the project,
+or in the GENERAL LOG, and important things may be recorded in a BOOK OF LESSONS.
+
+
 ### Short Debrief 
 
 (for quick wins or smaller events)
@@ -436,7 +440,7 @@ For unforseen problems, psychological ambushes, or emotional overwhelm.
 * If there are blocking issues stopping the entire project, pick an some other productive task.
 
 
-## Important Pages
+## Important Documents
 
 ### FATIGUE DUTY chart
 
@@ -506,6 +510,29 @@ Identify and record:
 * What could have been done to make the error impossible
 * How the error could have been detected earlier
 
+
+## The BOOK OF LESSONS
+
+This document, which may be paper, or potentially digital as it involves long form, long term content,
+is used to log what tou have learned from previous successes and failures.
+
+It is separate from the incident log, and contains only events, both positive and negative, that you
+believe have taught you some lasting important lesson.
+
+It can contain debriefing notes from large projects, or things as simple as imternet "life hacks" you
+believe you will actually use.
+
+If paper is used, it might be best to use a separate notebook for this.
+
+Entries should include:
+
+
+* The time this lesson was gained
+* The specific situation that occurred, or a general description of multiple events
+* The specific mistake or success
+* Key Lesson (Principle): Distilled into a general truth — no project jargon.
+* Application (Where Else): List at least 2 other areas where this could matter.
+* What change you made, or will make based on this information.
 
 
 
