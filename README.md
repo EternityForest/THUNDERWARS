@@ -271,6 +271,7 @@ For smaller projects it may still be useful to review the list even if you do no
 * What long term action is needed to maintain any ground gained?
 * Do you have any conflicts of interest or motive for self sabotage regarding the mission?
 * Are there unaddressed emotional or morale issues connected to this mission?
+* Do you believe or feel that you deserve failure in this area?
 * Is there a reason this has not been done already?
 * Are any trivial or unimportant aspects of the project consuming more time and resources than they should be?
 * What critical sections cannot be easily or safely paused?
