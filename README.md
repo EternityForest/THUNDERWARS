@@ -169,7 +169,7 @@ Reason Statements are brief but emotional, linking the task to consequences or v
 
 ### 4. Time Boxing
 
-For certain tasks, replace the full completion goal with a time-limited session (e.g., “Spend 10 minutes on the bathroom”).
+For certain tasks, replace the full completion goal with a time-limited session[^4] (e.g., “Spend 10 minutes on the bathroom”).
 
 Use this especially when:
 
@@ -226,7 +226,7 @@ The main obstacle or risk, not necessarily an “enemy strategy", although it ma
 What are you going to do about this project?  What could make the task easier?
 How will you stay motivated, and failing that, disciplined?   
 
-Can an Implementation Intention(If X, I will Y) be used as part of your strategy?
+Can an Implementation Intention[^1](If X, I will Y) be used as part of your strategy?
 
 
 ## DAGGER 
@@ -261,7 +261,7 @@ For smaller projects it may still be useful to review the list even if you do no
 * What are the next actionable steps to completing the task?
 * Can or should this project or desired new behavior be reinforced by attaching it to something you already do?
 * Can this be scheduled for a specific time, or as a recurring event?
-* What specific positive Implementation Intentions (When/If X, I will Y) can you form about this?
+* What specific positive Implementation Intentions[^1] (When/If X, I will Y) can you form about this?
 
 #### 🛡 DEFENSIVE STRATEGY
 
@@ -408,7 +408,7 @@ For unforseen problems, psychological ambushes, or emotional overwhelm.
 ### O — Orient
 
 * Name where you are, who’s with you, and what’s actually happening right now.
-* Name the evidence that currently shapes your understanding of what is happening.
+* Name the evidence that currently shapes your understanding of what is happening. [^6]
 * Is this threat or problem real, exaggerated, or imagined?
 * Is your existing plan still viable?
 * Quick-log any known tasks, duties, or follow-ups that could be lost in the chaos — so they’re safe to forget until later.
@@ -705,8 +705,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 * What do you want to change about your approach or posture next week?
 * What unused resources, spaces, or abilities have you noticed that you could apply?
-* Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?
-* Are any small details either being ignored or consuming more time than they should be?
+* Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?[^2]
+* Are any small details either being ignored or consuming more time than they should be?[^3]
 
 
 ### 🎯 NEXT WEEK'S DIRECTIVES
@@ -796,7 +796,7 @@ Practice by choosing three events and identifying what happened before them.
 
 ### 👁️ The Quiet Eye Discipline
 
-Quiet Eye training is used in many seemingly unrelated fields, from sports to healthcare and law enforcement.
+Quiet Eye[^5] training is used in many seemingly unrelated fields, from sports to healthcare and law enforcement.
 
 ####  1. Fixed Gaze
 
@@ -1172,7 +1172,7 @@ Military acknowledges morale is part of survival. A letter, a photo, or one comf
 
 
 
-## Administrative 
+## Administrative
 
 ### Typography
 The official font is Ovo for body text, and Black Ops One for headings.
@@ -1183,3 +1183,18 @@ be right-aligned.
 ### Semantic Versioning 
 
 This project uses SemVer for version number.
+
+
+## References
+
+[^1]: Wikipedia contributors, "Implementation intention," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Implementation_intention&oldid=1309452985 (accessed September 9, 2025).
+
+[^2]: The Book of Five Rings, https://en.wikipedia.org/w/index.php?title=The_Book_of_Five_Rings&oldid=1306221261 (last visited Sept. 9, 2025).
+
+[^3]: Wikipedia contributors, "Law of triviality," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Law_of_triviality&oldid=1307628790 (accessed September 9, 2025).
+
+[^4]: Wikipedia contributors, "Timeboxing," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Timeboxing&oldid=1294019433 (accessed September 9, 2025).
+
+[^5]: Wikipedia contributors, "Quiet eye," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Quiet_eye&oldid=1305803999 (accessed September 9, 2025).
+
+[^6]: Wikipedia contributors, "Cognitive restructuring," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Cognitive_restructuring&oldid=1291979046 (accessed September 9, 2025).
