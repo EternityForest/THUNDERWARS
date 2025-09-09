@@ -1159,6 +1159,7 @@ Military acknowledges morale is part of survival. A letter, a photo, or one comf
 * Does the item support any THREAT HABITS I am trying to quit?
 * Does the item require any special protection from damage or loss?
 * Is there likely to be a better version out before I actually want or need to use the item?
+* Does the item have limited shelf or calendar life? Will it be used before expiration?
 
 ### Imagination Drills
 
