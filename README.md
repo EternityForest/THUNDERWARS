@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.22.1 dev**
+**Version 0.23.0 dev**
 
 ---------------------------------
 
@@ -1068,6 +1068,107 @@ When a page is no longer active but may still be referenced soon (e.g. last week
 When pages are fully complete or unlikely to be used again soon, transfer them to your archive box or binder at base. File by section or date for long-term reflection, incident tracking, or post-mission analysis.
 
 “Leave no thought behind. Every battle fought teaches the next one.”
+
+
+## Gear Discipline 
+
+Excessive quantities of objects can consume large amounts of time and effort, sometimes starting before the item is even purchased!
+
+
+### Mission-Driven Loadouts
+
+Military principle: Every piece of gear must justify its weight by its direct connection to the mission.
+
+Practice: Soldiers don’t just carry “what might be useful.” They’re trained to constantly evaluate whether an item supports the immediate mission, the environment, and the duration of action.
+
+
+
+### Weight & Bulk Discipline
+
+Soldiers are told: “Ounces make pounds, and pounds make pain”
+
+Always pick up your loadout, put it on, and walk around before committing. 
+
+If you wouldn’t want to sprint or climb with what you plan to carry, or if you dread loading and unloading it all, something has to go.
+
+
+
+### Staging & Layering
+
+Both militaries and first responders use layers when out in the field.
+
+#### On-body (first line)
+
+Absolute essentials (knife, water, ID, comms, light, etc). Must never leave your person.
+
+#### Pack (second line)
+
+Mission gear you might drop temporarily, but would recover soon.  This is the gear that is actively in use, or extremely likely to be used soon, such as the tools in a tool belt.
+
+#### Base (third line): Bulk items left at camp/vehicle/rucksack/etc.
+
+
+Civilians in non-emergency situations almost always have an additional "fourth layer" of things that can be readily bought, borrowed, ran home for, or otherwise found easily.
+
+This makes many non-critical items less important than they seem to be.
+
+For every item, determine what layer it belongs in, and how it should be securely carried.
+
+### Post-Mission Review
+
+After every op, soldiers do a “lessons learned” session: what was never touched? what saved the day? what broke?
+
+During your debriefings, pay special attention to items that are consistently unused.
+
+
+### Standardized Lists (But Flexible)
+
+Units often use a baseline packing list (everyone carries X, Y, Z).
+
+Civilian adaptation: Have a master list for camping, travel, work — but trim ruthlessly before each trip.
+
+
+### Gear Care Discipline
+
+Add any regular maintenance to a repeating calendar event, or to a CONTEXT page you use regularly, possibly even the SWORDPOINT page.
+
+
+### Morale vs. Mission Gear
+
+Military acknowledges morale is part of survival. A letter, a photo, or one comfort item is often encouraged — but not an entire pile.
+
+
+### Mission Fit Questions
+
+* What mission is this item supporting? (Daily living, work task, outdoor trip, emergency readiness, etc.)
+* What happens if I don’t have it? (Real consequence vs. mild inconvenience.)
+* Do I already own something that can substitute? (Multi-use tools usually beat single-use ones.)
+* Is there an alternative that doesn't require any gear at all?
+* Could I obtain this item at the last minute if I suddenly need it?
+* How often will this be in play? (Daily, monthly, once a year, “only if everything goes wrong.”)
+* Does it connect with my existing gear? (Does it strengthen a system of items I already use, or sit outside the strategy?)
+
+
+
+### Burden Analysis
+
+* Where will it live when not in use? (Does it have a home, or will it float around as clutter?)
+* What does it cost to maintain? (Batteries, space, cleaning, updates, spares.)
+* Does it require training or practice to be useful? (If so, will I realistically practice with it?)
+* How will I feel every time I see it? (Does it motivate or demoralize?)
+* Does the item support any THREAT HABITS I am trying to quit?
+* Does the item require any special protection from damage or loss?
+* Is there likely to be a better version out before I actually want or need to use the item?
+
+### Imagination Drills
+
+* Picture a day using it. How does it make life easier or safer?
+* Picture a day carrying it but not using it. How much friction or regret does it add?
+* Picture lending or losing it. Would I really care, or would I secretly be relieved it’s gone?
+* If I could only bring 5 items on a mission, would this make the cut? Why?
+* If this item didn’t exist, how would I solve the problem? (Sometimes the “workaround” is better than the object itself.)
+
+
 
 ## Administrative 
 
