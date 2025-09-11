@@ -695,6 +695,8 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * Any consistently neglected tasks?
 * What RUINOUS SYSTEMS may be affecting you at present?
 * Am I copying, taking on, or absorbing inappropriate attitudes, thoughts, or feelings from anywhere?
+* Am I getting sufficient rest or taking on unnecessary and unsustainable projects?
+* Am I engaging in any unhealthy behaviors?
 
 ### Spycraft Check
 
