@@ -28,7 +28,7 @@ Review all checklists and procedures carefully, every time, do not just rely on 
 
 Computers execute instructions the same way every time. Change the code, and the machine obeys just as reliably as before.
 
-The human brain does not work that way. We forget. We make mistakes on tasks we’ve mastered. We may need weeks or months to learn or break a  habit.
+The human brain does not work that way[^11]. We forget. We make mistakes on tasks we’ve mastered. We may need weeks or months to learn or break a habit.
 
 Checklists and procedures bridge this gap. They give us repeatability, making actions less dependent on memory or mood. 
 
@@ -1220,6 +1220,9 @@ This project uses SemVer for version number.
 
 ## References
 
+As this is not an academic paper, citations do not always follow standard practice for scientific writing,
+they are there to provide historical context and starting points for further research.
+
 [^1]: Wikipedia contributors, "Implementation intention," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Implementation_intention&oldid=1309452985 (accessed September 9, 2025).
 
 [^2]: The Book of Five Rings, https://en.wikipedia.org/w/index.php?title=The_Book_of_Five_Rings&oldid=1306221261 (last visited Sept. 9, 2025).
@@ -1239,3 +1242,5 @@ This project uses SemVer for version number.
 [^9]: Rachel Habbert and Juliana Schroeder, “To Build Efficacy, Eat the Frog First: People Misunderstand How the Difficulty-Ordering of Tasks Influences Efficacy,” Journal of Experimental Social Psychology 91 (2020): 104032. 
 
 [^10]: Kahneman, Daniel; Fredrickson, Barbara L.; Schreiber, Charles A.; Redelmeier, Donald A. (1993). "When More Pain Is Preferred to Less: Adding a Better End". Psychological Science. 4 (6): 401–405. https://doi.org/10.1111%2Fj.1467-9280.1993.tb00589.x
+
+[^11]: Gawande, Atul. The Checklist Manifesto. London: Profile Books, 2011.
