@@ -24,6 +24,24 @@ Review all checklists and procedures carefully, every time, do not just rely on 
 
 ## Design Principles
 
+### Repeatability
+
+Computers execute instructions the same way every time. Change the code, and the machine obeys just as reliably as before.
+
+The human brain does not work that way. We forget. We make mistakes on tasks we’ve mastered. We may need weeks or months to learn or break a  habit.
+
+Checklists and procedures bridge this gap. They give us repeatability, making actions less dependent on memory or mood. 
+
+They give us controllability, allowing us to reconfigure our future behavior as just by writing a few words on a page.
+
+They make experimentation possible: we can test a new method today, and if it works, preserve it for tomorrow. 
+
+They make new tasks approachable: what was once foreign becomes routine when we have a map to guide us.
+
+And perhaps most importantly, they give us a contrast that reminds us of the limits. 
+
+When a problem resists procedure, when something about it seems bigger than words can capture, we recognize it as a signal to adapt, improvise, or rethink — instead of stumbling blindly into hazard.
+
 ### Extreme Consistency
 
 The system depends on an unwavering review rhythm — at minimum **Dawn**, **Dusk**, and **Weekly** (**SWORDPOINT**) reviews.
@@ -66,7 +84,7 @@ No critical item should ever “float” without a path from a root — otherwis
 Most ordered steps are designed to get the most unpleasant task out of the way
 first, unless there is some specific reason to do things in some other order.
 
-This seems to be a popular approach with some productivity experts, and has the objective
+This seems to be a popular approach with some productivity experts[^9], and has the objective
 benefit of giving you an obvious, repeatable method for choosing what order to do tasks in,
 which can sometimes be more stressful tuan actually doing the chores.
 
@@ -614,6 +632,20 @@ Conduct this after most work is done, but at least two hours before you disengag
 
 
 > All posts accounted for. Patrols stood down. Perimeter secure.
+
+## Design Rationale for Daily reviews
+
+In keeping with Do The Hardest Thing First[^9], we start with the physical sweeps, things 
+that are likely to involve deciphering handwriting, and things that may be tedious due to length.
+
+Another advantage is that the sweep can be done from memory(and then confirmed once you actually start the checklist!) without even picking up a book or phone, leaving hands free to do any ten second taks a discovered.
+
+We want to keep recording intentions last, to avoid unnecessary akwardness with picking up and putting down pens.
+
+This also allows one to immediately get started on things as soon as they write them down.
+
+Due to the peak-end rule[^10], we expect a better percieved experience if easier or more pleasant things are kept near the end.
+
 
 
 ## ⚔️ Weekly Commander's Review: SWORDPOINT
@@ -1203,3 +1235,7 @@ This project uses SemVer for version number.
 [^7]: Amabile, Teresa M., and Steve J. Kramer. The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work. Harvard Business Review Press, 2011
 
 [^8]: Allen, David. 2002. Getting Things Done. London, England: Piatkus Books.
+
+[^9]: Rachel Habbert and Juliana Schroeder, “To Build Efficacy, Eat the Frog First: People Misunderstand How the Difficulty-Ordering of Tasks Influences Efficacy,” Journal of Experimental Social Psychology 91 (2020): 104032. 
+
+[^10]: Kahneman, Daniel; Fredrickson, Barbara L.; Schreiber, Charles A.; Redelmeier, Donald A. (1993). "When More Pain Is Preferred to Less: Adding a Better End". Psychological Science. 4 (6): 401–405. https://doi.org/10.1111%2Fj.1467-9280.1993.tb00589.x
