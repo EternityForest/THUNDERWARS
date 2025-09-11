@@ -87,7 +87,7 @@ on your mind at once, then record them to avoid forgetting them.
 
 ## CONTEXT pages
 
-A context page contains checklist items and notes that should be referred to when doing a certain action or at a certain time.
+A context page[^8] contains checklist items and notes that should be referred to when doing a certain action or at a certain time.  We call them pages rather than lists, because in this system they are more than just task lists.
 
 They can be used for recurring events, or for the planning leading up to one-time events.
 
@@ -1201,3 +1201,5 @@ This project uses SemVer for version number.
 [^6]: Wikipedia contributors, "Cognitive restructuring," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Cognitive_restructuring&oldid=1291979046 (accessed September 9, 2025).
 
 [^7]: Amabile, Teresa M., and Steve J. Kramer. The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work. Harvard Business Review Press, 2011
+
+[^8]: Allen, David. 2002. Getting Things Done. London, England: Piatkus Books.
