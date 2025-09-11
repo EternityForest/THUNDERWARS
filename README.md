@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.23.0 dev**
+**Version 0.24.0 dev**
 
 ---------------------------------
 
@@ -262,6 +262,7 @@ For smaller projects it may still be useful to review the list even if you do no
 * Can or should this project or desired new behavior be reinforced by attaching it to something you already do?
 * Can this be scheduled for a specific time, or as a recurring event?
 * What specific positive Implementation Intentions[^1] (When/If X, I will Y) can you form about this?
+* How can the task be broken down into the smallest possible steps [^7]
 
 #### 🛡 DEFENSIVE STRATEGY
 
@@ -432,7 +433,7 @@ For unforseen problems, psychological ambushes, or emotional overwhelm.
 ### I — Initiate
 
 * Pick one action that gives you relief or traction (begin working on a known task, hydrate, walk, etc).
-* Make it concrete and start within 60 seconds.
+* Make it concrete and start within 60 seconds.[^7]
 
 
 ### E — Endure
@@ -1198,3 +1199,5 @@ This project uses SemVer for version number.
 [^5]: Wikipedia contributors, "Quiet eye," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Quiet_eye&oldid=1305803999 (accessed September 9, 2025).
 
 [^6]: Wikipedia contributors, "Cognitive restructuring," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Cognitive_restructuring&oldid=1291979046 (accessed September 9, 2025).
+
+[^7]: Amabile, Teresa M., and Steve J. Kramer. The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work. Harvard Business Review Press, 2011
