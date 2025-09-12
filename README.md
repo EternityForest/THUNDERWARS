@@ -966,7 +966,7 @@ Research[^16] shows mindfulness alters time perception, stretching the present m
 
 #### 3. Detailed Episodic Journaling (memory encoding & richness)
 
-Instead of just logging outcomes, describe sensory details, small surprises, feelings.[^14]
+Instead of just logging outcomes, describe sensory details, small surprises, feelings. [^14]
 
 Amabile’s “small wins” combine here: anchoring memories in concrete richness makes weeks feel longer and more meaningful.
 
