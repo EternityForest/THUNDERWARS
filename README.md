@@ -233,7 +233,7 @@ For minimal friction, use abbreviations. 1d, 1w, 1m, 1y, etc, for days, weeks, m
 
 ###  Strategic Impact
 
- Why this matters to the realm overall. How it connects to long-term stability or growth, or what might happen if you fail in this area.
+ Why this matters[^12][^13] to the realm overall. How it connects to long-term stability or growth, or what might happen if you fail in this area.
 
 ### Primary Challenge
 
@@ -1246,3 +1246,7 @@ they are there to provide historical context and starting points for further res
 [^10]: Kahneman, Daniel; Fredrickson, Barbara L.; Schreiber, Charles A.; Redelmeier, Donald A. (1993). "When More Pain Is Preferred to Less: Adding a Better End". Psychological Science. 4 (6): 401–405. https://doi.org/10.1111%2Fj.1467-9280.1993.tb00589.x
 
 [^11]: Gawande, Atul. The Checklist Manifesto. London: Profile Books, 2011.
+
+[^12]: Jeff Haden, Want to Be More Productive? Science Says Your To-Do List Could Be Missing 1 Crucial Element https://www.inc.com/jeff-haden/want-to-be-more-productive-science-says-your-to-do-list-could-be-missing-one-crucial-element.html
+
+[^13]: Harackiewicz JM, Canning EA, Tibbetts Y, Priniski SJ, Hyde JS. Closing achievement gaps with a utility-value intervention: Disentangling race and social class. J Pers Soc Psychol. 2016 Nov;111(5):745-765. doi: 10.1037/pspp0000075. Epub 2015 Nov 2. PMID: 26524001; PMCID: PMC4853302.
