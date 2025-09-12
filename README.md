@@ -773,9 +773,49 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 5. Check off and record completed items in the GENERAL LOG
 
 
+## Time Preservation 
+
+> The warrior must watch out for the Chronophage, lest the sands of time slip away too fast.
+
+A variety of neuroscience-related effects can quite literally steal your (perceived) time, and almost everyone seems to report being affected by it, claiming that time appears to "speed up" as they age.
+
+
+
+
+### Novelty Injection
+
+Seek new experiences deliberately, even small ones: take a new route home, try new foods, change workspace layout.
+
+Even minor variations create more “time stamps” in memory, stretching subjective time.
+
+### Mindful Attention
+Practices like mindfulness meditation increase present-moment awareness, which research shows can expand subjective time perception.
+
+The “quiet eye” training is a cousin to this — it enhances attentional control.
+
+
+### Episodic Encoding
+Journaling or daily reflection strengthens memory encoding. This makes days feel fuller in hindsight, which counteracts the blur of routine.
+
+Photography or sketching also work — anything that forces you to notice and record details.
+
+
+### Varied Time Scales
+Alternating between fast, intense activity (a run, a timed drill) and slow, deliberate activity (slow cooking, meditation, longhand writing) can recalibrate the brain’s “internal metronome.”
+
+### Embodied Anchors
+Neuroscience shows that interoceptive signals (heartbeat, breath) affect time perception. Practices that make you feel your body rhythm can slow perceived time flow.
+
+### Social & Emotional Salience
+Emotional intensity, both positive and negative, slows time perception during the event (though memory can distort it later).
+
+Cultivating awe is one of the strongest reliably studied “time-slowing” states.
+
+
 ## The Training Grounds
 
-These exercises can be done at any time.
+These exercises can be done at any time.  It is likely beneficial to randomize them occasionally, 
+because of the effects of novelty on time perception [^17].
 
 
 ### Willpower Sparring (Micro-Stress Tests)
@@ -909,6 +949,38 @@ anything critical.
 Rule: No exact times allowed, only relationships.
 
 Goal: Loosen dependence on clock precision and learn to feel time in a more organic rhythm.
+
+### Temporal Anchor Practices
+
+#### 1. Novelty Injection (hippocampal engagement, slows perceived time)
+
+Once per week, deliberately try something you’ve never done: a new food, route, micro-skill, or environment. Small is fine — the brain flags it as special.[^17]
+
+
+#### 2. Deep Presence Sessions (mindfulness/attention widening)
+
+One block of time (20–30 minutes) with full sensory awareness: a walk with no phone, or a “slow meal” noticing taste, smell, texture.
+
+Research[^16] shows mindfulness alters time perception, stretching the present moment.
+
+
+#### 3. Detailed Episodic Journaling (memory encoding & richness)
+
+Instead of just logging outcomes, describe sensory details, small surprises, feelings.[^14]
+
+Amabile’s “small wins” combine here: anchoring memories in concrete richness makes weeks feel longer and more meaningful.
+
+
+#### 4. Time Travel Reflection (default mode network, autobiographical time)
+
+Once a week, consciously place yourself 5 years back and 5 years forward: what’s different, what’s constant?
+
+This engages autobiographical memory and future prospection, expanding felt temporal scope.
+
+
+#### 5. Awe Exposure
+
+Watch a night sky, hear music that gives goosebumps, visit a tall building, read cosmic scale writing. [^15] 
 
 
 
@@ -1250,3 +1322,11 @@ they are there to provide historical context and starting points for further res
 [^12]: Jeff Haden, Want to Be More Productive? Science Says Your To-Do List Could Be Missing 1 Crucial Element https://www.inc.com/jeff-haden/want-to-be-more-productive-science-says-your-to-do-list-could-be-missing-one-crucial-element.html
 
 [^13]: Harackiewicz JM, Canning EA, Tibbetts Y, Priniski SJ, Hyde JS. Closing achievement gaps with a utility-value intervention: Disentangling race and social class. J Pers Soc Psychol. 2016 Nov;111(5):745-765. doi: 10.1037/pspp0000075. Epub 2015 Nov 2. PMID: 26524001; PMCID: PMC4853302.
+
+[^14] Zauberman, G., Levav, J., Diehl, K., & Bhargave, R. (2010). Comparing small and large: The effect of availability and accessibility on time perception. Journal of Consumer Research, 37(4), 742–752.
+
+[^15]: Rudd, M., Vohs, K. D., & Aaker, J. (2012). Awe expands people’s perception of time, alters decision making, and enhances well-being. Psychological Science, 23(10), 1130–1136.
+
+[^16]: Kramer, R. S. S., Weger, U. W., & Sharma, D. (2013). The effect of mindfulness meditation on time perception. Consciousness and Cognition, 22(3), 846–852.
+
+[^17]: Eagleman, D. M. (2008). Human time perception and its illusions. Current Opinion in Neurobiology, 18(2), 131–136.
