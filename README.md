@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.24.0 dev**
+**Version 0.24.1 dev**
 
 ---------------------------------
 
@@ -1323,7 +1323,7 @@ they are there to provide historical context and starting points for further res
 
 [^13]: Harackiewicz JM, Canning EA, Tibbetts Y, Priniski SJ, Hyde JS. Closing achievement gaps with a utility-value intervention: Disentangling race and social class. J Pers Soc Psychol. 2016 Nov;111(5):745-765. doi: 10.1037/pspp0000075. Epub 2015 Nov 2. PMID: 26524001; PMCID: PMC4853302.
 
-[^14] Zauberman, G., Levav, J., Diehl, K., & Bhargave, R. (2010). Comparing small and large: The effect of availability and accessibility on time perception. Journal of Consumer Research, 37(4), 742–752.
+[^14]: Zauberman, G., Levav, J., Diehl, K., & Bhargave, R. (2010). Comparing small and large: The effect of availability and accessibility on time perception. Journal of Consumer Research, 37(4), 742–752.
 
 [^15]: Rudd, M., Vohs, K. D., & Aaker, J. (2012). Awe expands people’s perception of time, alters decision making, and enhances well-being. Psychological Science, 23(10), 1130–1136.
 
