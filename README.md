@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.24.1 dev**
+**Version 0.25.0 dev**
 
 ---------------------------------
 
@@ -771,6 +771,60 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 3. Split large tasks into smaller, single-action steps.
 4. Upgrade vague entries with a clearer action and/or Reason Statement.
 5. Check off and record completed items in the GENERAL LOG
+
+
+## Structured Imagination 
+
+This is a process used to think through a plan with as few hand-wavy gaps as possible.
+
+It can also be used to deeply document something that has already happened.
+
+Use for any high-stakes action (tech demo, field repair, client delivery, camping trip). Start with the Quick Pass and escalate only as needed.
+
+
+---
+
+### 1. Unstructured Think Through 
+
+Write down every know step of what will happen, or what should happen 
+
+### 2. Intervening Time/Space
+
+For every step, identify what happened or will happen in the gap before and after, between the documented steps.
+
+
+### 3. ACTOR–OBJECT–PROPERTY 
+
+For each step, record:
+
+#### Actors 
+
+Who/what performs the action? (person, role, service)
+
+#### Objects
+
+What things are used or acted upon? (laptop, cable, credential, fuel)
+
+#### Properties
+
+What specific property must hold for the interaction to work? (port type, charge level, software version, key access, permissions)
+
+### 4. Repeat
+
+Repeat steps 2 and 3 as needed.
+
+Keep drilling until every property is explicit, and there are no obvious gaps of missing time in the analysis.
+
+
+### 5. Red Team
+
+Imagine the mission failed spectacularly. Write a short paragraph: How and why did it fail?
+
+What single point of failure exists? What small oversight would take this down?  Who benefits from this failing?
+
+Examine every step and record the most likely cause of failure.
+
+
 
 
 ## Time Preservation 
