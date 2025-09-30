@@ -7,7 +7,9 @@
 
 > You Have Been Drafted.
 
-**Version 0.25.0 dev**
+**Version 0.25.1 dev**
+
+Source: https://github.com/EternityForest/THUNDERWARS
 
 ---------------------------------
 
@@ -600,7 +602,7 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
   * If you aren't sure what you should be doing, go back and review the documents
   * Stop and reassesses if even minor non-ideal conditions are noticed
   * Don't leave tasks half-completed, put things away when done
-  * Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory
+  * You Play the way you Practice: Do things consistently, and avoid things that resemble unwanted actions or build incorrect muscle memory
   * Do things right away, or make a note to do things, as soon as you notice them
 
 
