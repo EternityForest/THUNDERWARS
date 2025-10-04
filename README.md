@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.25.1 dev**
+**Version 0.26.0 dev**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 
@@ -604,6 +604,7 @@ Your DAWN BRIEFING NOTES should be entered into the GENERAL LOG.
   * Don't leave tasks half-completed, put things away when done
   * You Play the way you Practice: Do things consistently, and avoid things that resemble unwanted actions or build incorrect muscle memory
   * Do things right away, or make a note to do things, as soon as you notice them
+  * Maintain awareness of context: When finishing a task, ask yourself what you were doing before you started, and if the task is part of something bigger
 
 
 ## 🌇 DUSK WATCH
@@ -1311,7 +1312,7 @@ Military acknowledges morale is part of survival. A letter, a photo, or one comf
 * Could I obtain this item at the last minute if I suddenly need it?
 * How often will this be in play? (Daily, monthly, once a year, “only if everything goes wrong.”)
 * Does it connect with my existing gear? (Does it strengthen a system of items I already use, or sit outside the strategy?)
-
+* Have you examined all manuals and documents relating to the item? Many products have some hidden property that makes them unsuitable, that is not made obvious in the product page.
 
 
 ### Burden Analysis
