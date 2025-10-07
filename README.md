@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.26.0 dev**
+**Version 0.27.0 dev**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 
@@ -1066,7 +1066,8 @@ people this should not be relied as they may go unnoticed.
 ### Storage pouch page
 
 This is important for keeping track of your sticky notes. 
-Often included with planner kits.
+Often included with planner kits.  Be sure to have a large one that actually
+fits the sticky notes, the 3 section card holders don't.
 
 ### Today marker ruler
 For quick access in the GENERAL LOG, often included with planner kits.
