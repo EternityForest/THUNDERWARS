@@ -45,9 +45,11 @@ Although the system borrows thematically from military, sci-fi, and high-fantasy
 They are not intended as endorsements of contemporary “grindset” or “warrior culture” ideologies.
 
 
-This is not a program for toughness training or “becoming hard.”
+This is not a program for toughness training or “becoming hard.".  The system maintains a neutral stance towards such things, leaving any evaluation of them to the individual.
 
 It is a system for reducing friction, increasing foresight, and maintaining morale — so that courage, discipline, and endurance are available when truly needed, not constantly demanded.
+
+Psychology and folk wisdom alike recognize the importance of discipline and the rarity of shortcuts that are truly effective, but we do not need to add our own unnecessary suffering on top of inherently difficult tasks.
 
 In short: THUNDERWARS is about learning to fly the plane, not proving you can survive the crash.
 
