@@ -13,7 +13,7 @@ Source: https://github.com/EternityForest/THUNDERWARS
 
 ---------------------------------
 
-
+## Quickstart
 Begin by completing a BRANCH table, a FATIGUE DUTY chart, and a MESS HALL plan.
 
 Then complete a DAGGER report for a zones within the BRANCH table identified as priority targets.
@@ -23,6 +23,33 @@ Maintain an INCIDENT LOG and GENERAL LOG.
 Create Context Pages for frequently repeated tasks or significant future plans.
 
 Review all checklists and procedures carefully, every time, do not just rely on memory.
+
+
+## Purpose 
+
+THUNDERWARS is a general-purpose framework for task, time, and mission management, designed to integrate the practical, psychological, and philosophical dimensions of getting things done.
+It builds on decades of trusted precedent in aviation, medicine, cognitive science, and field operations — but it remains open-ended, modular, and adaptable to individual philosophy and context.
+
+This system is published in the spirit of the open-source movement:
+its tools and ideas are offered freely, without prescriptive ideology, leaving questions of suitability and interpretation to the individual practitioner.
+
+Where possible, each method references supporting research from psychology, human factors engineering, and performance science.
+Some tools, however, are original to this framework — evolving through field testing, refinement, and lived experience rather than formal study.
+
+
+### Differences from Other Systems
+
+While many productivity philosophies emphasize discipline over motivation, and for good reason, THUNDERWARS places its emphasis on prevention over endurance — designing habits, checklists, and decision frameworks to avoid unnecessary hardship, rather than to glorify perseverance under it.
+
+Although the system borrows thematically from military, sci-fi, and high-fantasy traditions, these are metaphorical settings, chosen for their storytelling power and their ability to make self-management feel adventurous and creative.
+They are not intended as endorsements of contemporary “grindset” or “warrior culture” ideologies.
+
+
+This is not a program for toughness training or “becoming hard.”
+
+It is a system for reducing friction, increasing foresight, and maintaining morale — so that courage, discipline, and endurance are available when truly needed, not constantly demanded.
+
+In short: THUNDERWARS is about learning to fly the plane, not proving you can survive the crash.
 
 ## Design Principles
 
