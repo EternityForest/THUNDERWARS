@@ -1303,9 +1303,11 @@ Mission gear you might drop temporarily, but would recover soon.  This is the ge
 #### Base (third line): Bulk items left at camp/vehicle/rucksack/etc.
 
 
-Civilians in non-emergency situations almost always have an additional "fourth layer" of things that can be readily bought, borrowed, ran home for, or otherwise found easily.
+#### Unofficial "Fourth Layer"
 
-This makes many non-critical items less important than they seem to be.
+Civilians in non-emergency situations almost always have an additional "fourth layer" of things that can be readily bought, borrowed, ran home for, or otherwise found easily.  This concept does not appear to be discussed in survival circles, but it is a key difference between everyday life and tactical situations.
+
+Many non-critical items are much less important than they seem to be.
 
 For every item, determine what layer it belongs in, and how it should be securely carried.
 
