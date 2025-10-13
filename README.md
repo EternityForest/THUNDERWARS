@@ -654,7 +654,8 @@ Conduct this after most work is done, but at least two hours before you disengag
 4. Review your BRANCH table and any relevant DAGGER charts
 
 ### Debrief
-1. Record new events in the INCIDENT LOG and GENERAL LOG.  Try to log at least one notable event.
+1. How have your actions today affected your long term goals or plans?
+2. Record new events in the INCIDENT LOG and GENERAL LOG.  Try to log at least one notable event.
 
 ### Preparation
 1. Set all needed alarms, alerts, and reminders
