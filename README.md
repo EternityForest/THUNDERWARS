@@ -842,6 +842,16 @@ What things are used or acted upon? (laptop, cable, credential, fuel)
 
 What specific property must hold for the interaction to work? (port type, charge level, software version, key access, permissions)
 
+#### Implicit Properties 
+
+Most objects and subjects have some kind of implicit property that is rarely directly
+analyzed, such as the expectation that food products should remain free of contamination,
+or that vehicles are properly maintained, or that people will be rested, fed, and present at
+the appropriate time.
+
+Explicitly listing these brings them inder conscious analysis, rather than leaving them
+to chance.
+
 ### 4. Repeat
 
 Repeat steps 2 and 3 as needed.
