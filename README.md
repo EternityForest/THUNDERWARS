@@ -739,6 +739,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * What events, festivals, or meetups were mentioned in passing this week?
 * What changes did I notice on my block, at local shops, or in the neighborhood? 
 • What changes have I noticed with relatives, friends, or close contacts?
+* What well intentioned actions have not been properly examined for possible negative effects?
 
 #### Mission Zone
 
