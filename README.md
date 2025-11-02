@@ -338,6 +338,7 @@ For smaller projects it may still be useful to review the list even if you do no
 
 * What tools, reminders, or allies will you employ?
 * Who do you need to coordinate with?
+* What critical information could be lost during handoffs between people and groups?
 
 #### 🧪 TRAINING
 
