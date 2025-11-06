@@ -1082,7 +1082,37 @@ This engages autobiographical memory and future prospection, expanding felt temp
 Watch a night sky, hear music that gives goosebumps, visit a tall building, read cosmic scale writing. [^15] 
 
 
+### ⚔️ The Path of the Warrior-Poet
 
+Artist’s Drills for Steady Hand and Focused Mind
+
+> “A sword is sharpened by repetition, not rage.
+A line is straightened by patience, not perfection.”
+— Old proverb from the Monastery of Quiet Ink
+
+
+#### Drill I — The Line of Honor
+
+Draw a grid of lines across a page — slowly, evenly, without ruler or haste,
+
+Strive for even spacing and consistent pressure.
+
+
+#### Drill II — The March of Alignment
+
+Place small objects — screws, coins, scraps — in perfect rows and columns by eye.  Adjust until every item “feels” aligned.
+
+Create a grid of evenly spaced dots on paper in the same way.
+
+
+#### Drill III — The Pulse of Craft
+
+Choose a repetitive motion (cutting, sanding, stitching, typing). Perform it 100 times with unbroken rhythm and even pressure.
+
+
+#### Drill IV — The Long Road
+
+Keep a pencil moving purposefully for a full minute without pause, creating a pattern of your choosing.
 
 ## FIELD BOOK
 
