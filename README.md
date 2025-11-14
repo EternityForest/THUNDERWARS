@@ -364,6 +364,7 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 #### 🕵️‍♂️ INTEL
 
 * Is this habit serving a larger system that profits from your decay?
+* Does this habit interact with any other THREAT HABITS?
 * What feedback loops or vicious cycles does this enemy create to preserve itself?
 * Does this habit serve some purpose in your personal black market that you have not yet addressed?
 * Does the habit serve some useful or necessary function that must be replaced with a healthier alternative?
