@@ -369,6 +369,17 @@ If the mission relates to dismantling a THREAT HABIT, review these additional qu
 * Does this habit serve some purpose in your personal black market that you have not yet addressed?
 * Does the habit serve some useful or necessary function that must be replaced with a healthier alternative?
 * Did this habit serve some useful function at one time, which no longer applies?
+
+##### Reverse Habit Stacking
+
+* Is this habit typically paired with a beneficial activity that needs to be decoupled from the THREAT HABIT?
+
+* If so, does this habit need to be replaced with something else in that context?
+  
+* Is this habit typically paired with another activity(snacking/scrolling, gambling/drinking, etc) that enhances it's addictiveness?
+
+* What specific activities will you avoid combining?
+
   
 ### FIELD OPS
 
