@@ -423,6 +423,37 @@ For specific, focused missions like preparing for an important meeting, use the 
 * What needs to be cleaned, reset, logged, repacked, or uploaded?
 * Have you madetime to rest, review, and debrief?
 
+
+## Task Closure: The Changing WINDs
+
+These four steps can be used any time you switch tasks, to avoid losing critical information, and prevent the previous task from distracting your mind.
+
+Say them in order. Write them only when needed.
+The goal is clarity, not documentation.  Unlike almost all practices in this system, the WIND process is explicitly meant to be done from memory if possible.
+
+### W — Where was I?
+
+Identify exactly where you left off and where you will pick back up.
+One sentence: “Next step is to attach the adapter cable.”
+
+### I — Interruption Check
+
+Recall what you were doing or planning before starting this task.
+
+This prevents losing the previous thread and builds the habit of recovery from interruptions.
+
+### N — Notes of Wisdom
+
+State one thing you learned or one insight you gained.
+
+### D — Direction of Travel
+
+Decide what’s next outside this project once you stand up.
+
+This restores momentum for the rest of the day.
+
+
+
 ## DEBRIEF REPORT
 
 (For reviewing missions, projects, and major events — victories or defeats)
