@@ -949,6 +949,33 @@ Emotional intensity, both positive and negative, slows time perception during th
 Cultivating awe is one of the strongest, most reliably studied “time-slowing” states.
 
 
+## La Verdadera Destreza
+
+The Destreze and an old Spanish system of swordsmanship and philosophy, centering on the work of Jerónimo Sánchez de Carranza and his student.
+
+Much like Eastern martial arts, the system seems to be full of valuable insights that carry over outside of combat.
+
+
+### Circles
+
+One defining aspect of the system is visualizing imaginary circles encompassing the full reach of a sword, giving an instant picture of where someone can attack without adjusting their stance.
+
+This is very useful in the literal sense, as a fast way to approximately analyze how something could possibly move.  
+
+This could be valuable for preventing accidents by keeping things that should not touch, like saw blades and fingers, from having unnecessary overlapping reaches.
+
+It is also valuable for analyzing any other situation that can be plotted along multiple axis.  
+
+We can imagine a radius of effect for a problem, which only affects us if we are close enough in multiple dimensions (Fatigue, proximity to temptation, stress, etc).
+ 
+## Efficient Movement 
+
+The Destreza, with it's focused on minimal and efficient movement, reminds us to consider what specific things are bringing us closer to success or failure, and focus on those, rather than on flashy actions that do little to change the geometry that matters.
+
+If you are on a boat in a poisonous lake, fire hazards are unlikely to be your primary concern.
+
+You should probably leave before you are poisoned, rather than turning off your engine to avoid a non-existent problem. If you are going to a fancy restaurant, you should not spend time packing a lunch in case they are out of food, and then forget to get dressed in the process.
+
 ## The Training Grounds
 
 These exercises can be done at any time.  It is likely beneficial to randomize them occasionally, 
