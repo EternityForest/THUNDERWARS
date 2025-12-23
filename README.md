@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.27.0 dev**
+**Version 0.28.0 dev**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 
@@ -1161,6 +1161,8 @@ A line is straightened by patience, not perfection.”
 Draw a grid of lines across a page — slowly, evenly, without ruler or haste,
 
 Strive for even spacing and consistent pressure.
+
+Draw a set of lines, and then extend them, trying to make them look like continuous lines with no separate parts.
 
 
 #### Drill II — The March of Alignment
