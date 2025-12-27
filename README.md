@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.28.0 dev**
+**Version 0.29.0 dev**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 
@@ -16,9 +16,13 @@ Source: https://github.com/EternityForest/THUNDERWARS
 ## Quickstart
 Begin by completing a BRANCH table, a FATIGUE DUTY chart, and a MESS HALL plan.
 
+Choose three RITES OF WATCH
+
 Then complete a DAGGER report for any zones within the BRANCH table identified as priority targets.
 
 Maintain an INCIDENT LOG and GENERAL LOG.
+
+Perform the DAWN BRIEFING and DUSK WATCH
 
 Create Context Pages for frequently repeated tasks or significant plans.
 
@@ -717,6 +721,94 @@ We want to keep recording intentions last, to avoid unnecessary akwardness with 
 This also allows one to immediately get started on things as soon as they write them down.
 
 Due to the peak-end rule[^10], we expect a better perceived experience if easier or more pleasant things are kept near the end.
+
+## RITES OF WATCH
+
+These actions introduce controlled friction, novelty, and continuity at points where human attention predictably fails.
+
+They exist not to accomplish work, but to maintain awareness, discipline, and continuity across time transitions.
+
+They are intentionally small, observable, and partly arbitrary. They must not directly accomplish or optimize anything, but they may be connected to something you wish to become more aware of or notice more.
+
+### Types
+
+Your ritual set must include at least one action from each class, and should ideally contain three or four items.
+
+#### Variable Action (Attention Test)
+Purpose: Prevent autopilot, force presence
+
+Rule:
+* Must vary day to day
+* Must always involve doing something (not checking)
+* Done at DAWN BRIEFING or DUSK WATCH 
+
+Examples:
+
+* Write down the current weather in one sentence
+* Sketch a quick symbol representing the day
+* Note the moon phase or daylight condition
+* Draw one line or mark in a log
+* Record one sensory observation (sound, smell, temperature)
+
+This action confirms that you are awake, not just compliant.
+
+#### Constant Action (Consistency Test)
+
+Purpose: Build tolerance for repetition and boredom
+
+Rule:
+* Must be the same every time
+* Must never be optimized or skipped
+* Should feel slightly redundant
+
+
+Examples:
+
+* Place a specific token in the same location at DAWN BRIEFING, remove it at DUSK WATCH
+* Flip or rotate an object at DUSK and DAWN
+* Light (or extinguish) the same lamp
+* Straighten one designated object
+* Touch a marked surface or emblem
+* Say or read the same short line
+* Make the bed
+
+This action confirms you can maintain order even when nothing is new.
+
+
+#### Optional Diagnostic
+Purpose: Reveal fatigue, resistance, or drift
+
+Rule:
+* Chosen deliberately
+* May rotate weekly or seasonally
+
+Examples:
+* Brief posture check or stretch
+* One slow breath cycle
+* One line written by hand
+* Aligning a small object precisely
+* Standing still for ten seconds
+* If this action feels unusually difficult, that information matters
+
+### Rules of Substitution
+
+Actions may be swapped, but:
+
+* Both required classes must always be present
+* Changes should be infrequent (weekly or monthly, not daily)
+* If an action becomes invisible or forgettable, it must be replaced
+
+### Rules of Failure
+
+Forgetting an action is not a moral failure
+It is a diagnostic signal
+
+If a rite is missed:
+
+* Do not redo the entire sequence
+* Do not add penalties
+* Simply note the miss and continue
+* The ritual exists to detect loss of presence, not to punish it.
 
 
 
