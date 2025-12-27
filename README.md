@@ -123,6 +123,12 @@ This seems to be a popular approach with some productivity experts[^9], and has 
 benefit of giving you an obvious, repeatable method for choosing what order to do tasks in,
 which can sometimes be more stressful than actually doing the chores.
 
+### Beware of Passive Observation 
+
+It is easy to become complacent ehen checklists include large numbers of things to passively check, that only rarely require action. 
+
+For this reason, arbitrary tasks are sometimes inserted, purely or mostly to ensure that some minimal action is always taken to maintain presence snd engagement.
+
 ## CAPTURE DOCTRINE
 
 Nothing important should exist entirely in your head. Document things immediately when you think of them,
