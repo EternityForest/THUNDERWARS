@@ -4,21 +4,21 @@
  <office:meta><meta:creation-date>2025-07-27T18:19:45.761990759</meta:creation-date><dc:date>2025-10-13T15:34:13.742971176</dc:date><meta:editing-duration>P22DT23H3M17S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:print-date>2025-09-06T16:22:37.935131796</meta:print-date><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="14" meta:paragraph-count="175" meta:word-count="1502" meta:character-count="8500" meta:non-whitespace-character-count="7287"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">207603</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">37573</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19475</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30058</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14205</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15305</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">14035</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13485</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1616</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">37571</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">19473</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">207603</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30057</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">221806</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -114,7 +114,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">JQL+/0Nhbm9uX1RTODIwMF9zZXJpZXNAM0QyOUIxMDAwMDAwLmxvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9UUzgyMDBfc2VyaWVzQDNEMjlCMQAWAAMA1gAAAAAAAQAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fVFM4MjAwX3Nlcmllc0AzRDI5QjEwMDAwMDAubG9jYWwKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpMZXR0ZXIASW5wdXRTbG90Ok1haW4ARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRSYAQ2Fub25fVFM4MjAwX3Nlcmllc0AzRDI5QjEwMDAwMDAubG9jYWwLAERSSVZFUl9OQU1FKwBDVVBTOkNhbm9uX1RTODIwMF9zZXJpZXNAM0QyOUIxMDAwMDAwLmxvY2Fs</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">JQL+/0Nhbm9uX1RTODIwMF9zZXJpZXNAM0QyOUIxMDAwMDAwLmxvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9UUzgyMDBfc2VyaWVzQDNEMjlCMQAWAAMA1gAAAAAAAQAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fVFM4MjAwX3Nlcmllc0AzRDI5QjEwMDAwMDAubG9jYWwKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6TWFpbgBQYWdlU2l6ZTpMZXR0ZXIAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRSYAQ2Fub25fVFM4MjAwX3Nlcmllc0AzRDI5QjEwMDAwMDAubG9jYWwLAERSSVZFUl9OQU1FKwBDVVBTOkNhbm9uX1RTODIwMF9zZXJpZXNAM0QyOUIxMDAwMDAwLmxvY2Fs</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -138,7 +138,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3391689</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3428462</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -171,7 +171,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -603,184 +603,265 @@
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:paragraph-rsid="0028c511" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0402in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:rsid="00324cd4" officeooo:paragraph-rsid="00324cd4" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Ovo" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Quotations">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="90%" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent" fo:padding="0in" fo:border="none"/>
    <style:text-properties style:font-name="Ovo" fo:font-size="8pt" fo:font-style="italic" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-size-complex="8pt" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Quotations">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent" fo:padding="0in" fo:border="none"/>
    <style:text-properties style:font-name="Ovo" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Ovo" fo:font-size="14pt" fo:font-weight="bold" officeooo:rsid="00188495" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Ovo" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002864f8"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002d5a2b"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ovo" officeooo:rsid="002c353e" officeooo:paragraph-rsid="002c353e"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Black Ops One" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:paragraph-rsid="000db8df" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="106%" fo:orphans="2" fo:widows="2"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="apple-system" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="001d8006"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="001e8988"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="001fd2fb"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
-   <style:text-properties officeooo:paragraph-rsid="00206137"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:line-height="90%"/>
-  </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-size="11pt" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Black Ops One" fo:font-size="12pt" fo:font-weight="normal" officeooo:paragraph-rsid="00188495" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Black Ops One" officeooo:paragraph-rsid="001fd2fb"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties style:font-name="apple-system" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:paragraph-rsid="00206137"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:paragraph-rsid="00223703"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:paragraph-rsid="0024ba82"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:margin-top="0.1in" fo:margin-bottom="0.0402in" style:contextual-spacing="false"/>
-   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:margin-top="0.1in" fo:margin-bottom="0.0201in" style:contextual-spacing="false"/>
-   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002864f8"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002d5a2b"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" officeooo:rsid="002c353e" officeooo:paragraph-rsid="002c353e"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="Numbering_20_123">
-   <style:text-properties style:font-name="Ovo"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:paragraph-rsid="0028c511" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0402in" style:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
-   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:rsid="00324cd4" officeooo:paragraph-rsid="00324cd4" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1"/>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:orphans="2" fo:widows="2"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1" style:master-page-name="">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00307bf6" officeooo:paragraph-rsid="00307bf6" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
-   <style:paragraph-properties fo:line-height="90%"/>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="apple-system" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="001fd2fb" officeooo:paragraph-rsid="001fd2fb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001d8006"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001e8988"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001fd2fb"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
    <style:text-properties officeooo:paragraph-rsid="00206137"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+   <style:text-properties officeooo:paragraph-rsid="00206137"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
    <style:text-properties officeooo:paragraph-rsid="002268ff"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:line-height="90%"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:line-height="90%"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="11pt" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:margin-top="0.1in" fo:margin-bottom="0.0402in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:margin-top="0.1in" fo:margin-bottom="0.0201in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Black Ops One" fo:font-size="12pt" fo:font-weight="normal" officeooo:paragraph-rsid="00188495" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Black Ops One" officeooo:paragraph-rsid="001fd2fb"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties style:font-name="apple-system" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.2in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.1in" style:contextual-spacing="false" fo:line-height="90%" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00206137"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00223703"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0024ba82"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="001fd2fb" officeooo:paragraph-rsid="001fd2fb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:paragraph-rsid="00206137"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:paragraph-rsid="00223703"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0024ba82"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002864f8"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" officeooo:paragraph-rsid="002d5a2b"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" officeooo:rsid="002c353e" officeooo:paragraph-rsid="002c353e"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="Numbering_20_123">
+   <style:text-properties style:font-name="Ovo"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:paragraph-rsid="0028c511" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0402in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="List_20_1">
+   <style:text-properties style:font-name="Ovo" fo:font-size="11pt" officeooo:rsid="00324cd4" officeooo:paragraph-rsid="00324cd4" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1"/>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" style:page-number="auto" fo:background-color="transparent"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00307bf6" officeooo:paragraph-rsid="00307bf6" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="116%" fo:orphans="2" fo:widows="2" fo:background-color="transparent"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f2328" loext:opacity="100%" style:font-name="Ovo" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:line-height="90%"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="001fd2fb" officeooo:paragraph-rsid="001fd2fb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+   <style:text-properties officeooo:paragraph-rsid="00206137"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="List_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0598in" style:contextual-spacing="false" fo:line-height="86%"/>
+   <style:text-properties officeooo:paragraph-rsid="002268ff"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -870,282 +951,282 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
-   </text:sequence-decls><draw:frame draw:style-name="fr1" draw:name="user-content-preparation" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="28">
+   </text:sequence-decls><draw:frame draw:style-name="fr1" draw:name="user-content-️-todo-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="21">
     <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-debrief" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="27">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-review-1" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="26">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection-and-harbor-stow" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="25">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-planning" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="24">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="23">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="22">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--dusk-watch" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="2">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-standing-orders--operating-stance" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="1">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--dawn-briefing" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="0">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-sortie" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="3">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-s--stabilize" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="4">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-o--orient" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="5">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-r--regain" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="6">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-t--target" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="7">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-i--initiate" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="8">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-e--endure" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="9">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-weekly-commanders-review-swordpoint" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="10">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection1" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="11">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--document-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="12">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--mission-recap" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="13">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--debrief" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="14">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--damage-report" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="15">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-task-management" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="16">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-strategic-adjustments" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="17">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--next-weeks-directives" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="18">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
-    </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-long-term-alignment" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="19">
-    <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
+     <text:p text:style-name="P16"/>
     </draw:text-box>
    </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--values-alignment" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="20">
     <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
+     <text:p text:style-name="P16"/>
     </draw:text-box>
-   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-todo-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="21">
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-long-term-alignment" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="19">
     <draw:text-box fo:min-height="0.2917in">
-     <text:p text:style-name="P8"/>
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--next-weeks-directives" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="18">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-strategic-adjustments" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="17">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-task-management" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="16">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--damage-report" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="15">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--debrief" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="14">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--mission-recap" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="13">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--document-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="12">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection1" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="11">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-weekly-commanders-review-swordpoint" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="10">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-e--endure" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="9">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-i--initiate" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="8">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-t--target" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="7">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-r--regain" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="6">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-o--orient" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="5">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-s--stabilize" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="4">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-sortie" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="3">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--dawn-briefing" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="0">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-️-standing-orders--operating-stance" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="1">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content--dusk-watch" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="2">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="22">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-review" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="23">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-planning" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="24">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-inspection-and-harbor-stow" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="25">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-review-1" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="26">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-debrief" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="27">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
+    </draw:text-box>
+   </draw:frame><draw:frame draw:style-name="fr1" draw:name="user-content-preparation" text:anchor-type="page" text:anchor-page-number="1" svg:x="-0.2917in" svg:y="0in" svg:width="0.2917in" draw:z-index="28">
+    <draw:text-box fo:min-height="0.2917in">
+     <text:p text:style-name="P16"/>
     </draw:text-box>
    </draw:frame>
-   <text:h text:style-name="P9" text:outline-level="2">DAWN BRIEFING</text:h>
-   <text:p text:style-name="P11">You Have Been Drafted</text:p>
+   <text:h text:style-name="P17" text:outline-level="2">DAWN BRIEFING</text:h>
+   <text:p text:style-name="P25">You Have Been Drafted</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Inspection</text:h>
    <text:list text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P30">Brief Sweep of the Physical Environment</text:p>
+     <text:p text:style-name="P54">Brief Sweep of the Physical Environment</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Review</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P31">Review your OPERATING STANCE</text:p>
+     <text:p text:style-name="P55">Review your OPERATING STANCE</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Review DAWN CONTEXT PAGE</text:p>
+     <text:p text:style-name="P55">Review DAWN CONTEXT PAGE</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Review Recent GENERAL LOG notes</text:p>
+     <text:p text:style-name="P56">Review Recent GENERAL LOG notes</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">What obligations, meetings, or events are there today?</text:p>
+     <text:p text:style-name="P55">What obligations, meetings, or events are there today?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">What missions are underway?</text:p>
+     <text:p text:style-name="P55">What missions are underway?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33">Take a quick glance at your BRANCH chart</text:p>
+     <text:p text:style-name="P57">Take a quick glance at your BRANCH chart</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">What’s the next actionable step for each?</text:p>
+     <text:p text:style-name="P55">What’s the next actionable step for each?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Review any calendars or to-do lists you keep.</text:p>
+     <text:p text:style-name="P55">Review any calendars or to-do lists you keep.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Review FATIGUE DUTY Chart</text:p>
+     <text:p text:style-name="P55">Review FATIGUE DUTY Chart</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Review MESS HALL: What morale, nutrition, or recovery actions are needed?</text:p>
+     <text:p text:style-name="P55">Review MESS HALL: What morale, nutrition, or recovery actions are needed?</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Planning</text:h>
-   <text:list xml:id="list153916285229150" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:list xml:id="list165517111888267" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P31">Record Today’s Intentions.</text:p>
+     <text:p text:style-name="P55">Record Today’s Intentions.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Expected Hazards and Traps: What might go wrong? What ambushes are likely?</text:p>
+     <text:p text:style-name="P55">Expected Hazards and Traps: What might go wrong? What ambushes are likely?</text:p>
     </text:list-item>
    </text:list>
    <text:list text:style-name="Numbering_20_123">
     <text:list-header>
-     <text:p text:style-name="P34"/>
+     <text:p text:style-name="P58"/>
     </text:list-header>
    </text:list>
-   <text:p text:style-name="P7">Standby.... Ready..... GO!</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T14">DAWN</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T14">BRIEFING</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T16">CONTEXT PAGE</text:span></text:p>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11">Standby.... Ready..... GO!</text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P41"><text:span text:style-name="T14">DAWN</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T14">BRIEFING</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T16">CONTEXT PAGE</text:span></text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>OPERATING STANCE</text:h>
-   <text:list text:continue-list="list153916285229150" text:style-name="List_20_1">
+   <text:list text:continue-list="list165517111888267" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P43">Perform tasks with conscious attention to your environment.</text:p>
+     <text:p text:style-name="P64">Perform tasks with conscious attention to your environment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Use checklists and procedures carefully, don&apos;t just rely on memory</text:p>
+     <text:p text:style-name="P65">Use checklists and procedures carefully, don&apos;t just rely on memory</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Pause frequently to recall today’s mission intent.</text:p>
+     <text:p text:style-name="P65">Pause frequently to recall today’s mission intent.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Don’t take shortcuts or deviate from procedure without clear cause.</text:p>
+     <text:p text:style-name="P65">Don’t take shortcuts or deviate from procedure without clear cause.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Slow is smooth, smooth is fast</text:p>
+     <text:p text:style-name="P65">Slow is smooth, smooth is fast</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">You remain on duty during idle moments</text:p>
+     <text:p text:style-name="P65">You remain on duty during idle moments</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">If you aren&apos;t sure what you should be doing, go back and review the documents</text:p>
+     <text:p text:style-name="P65">If you aren&apos;t sure what you should be doing, go back and review the documents</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Stop and reassesses if even minor non-ideal conditions are noticed</text:p>
+     <text:p text:style-name="P65">Stop and reassesses if even minor non-ideal conditions are noticed</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Don&apos;t leave tasks half-completed, put things away when done</text:p>
+     <text:p text:style-name="P65">Don&apos;t leave tasks half-completed, put things away when done</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory</text:p>
+     <text:p text:style-name="P65">Do things consistently-Avoid things that resemble unwanted actions or build incorrect muscle memory</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Do things right away, or make a note to do things, as soon as you notice them</text:p>
+     <text:p text:style-name="P65">Do things right away, or make a note to do things, as soon as you notice them</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Maintain awareness of context: When finishing a task, ask yourself what you were doing before you started, and if the task is part of something bigger</text:p>
-     <text:p text:style-name="P45"/>
-     <text:p text:style-name="P40"/>
+     <text:p text:style-name="P66">Maintain awareness of context: When finishing a task, ask yourself what you were doing before you started, and if the task is part of something bigger</text:p>
+     <text:p text:style-name="P66"/>
+     <text:p text:style-name="P67"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5">Standby.... Ready..... <text:span text:style-name="T6">GO!</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:soft-page-break/><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P20"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P9">Standby.... Ready..... <text:span text:style-name="T6">GO!</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P40"><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
@@ -1168,69 +1249,69 @@
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T7"/></text:p>
-   <text:h text:style-name="P13" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">DUSK WATCH</text:span></text:h>
-   <text:h text:style-name="P27" text:outline-level="3">Inspection and Harbor Stow</text:h>
+   <text:h text:style-name="P27" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">DUSK WATCH</text:span></text:h>
+   <text:h text:style-name="P38" text:outline-level="3">Inspection and Harbor Stow</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P35">Make Another sweep of the environment</text:p>
+     <text:p text:style-name="P59">Make Another sweep of the environment</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Doors locked, tools powered down, hazards cleared?</text:p>
+     <text:p text:style-name="P59">Doors locked, tools powered down, hazards cleared?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Devices charged, gear cleaned or stowed?</text:p>
+     <text:p text:style-name="P59">Devices charged, gear cleaned or stowed?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Supplies checked, groceries listed, repairs noted?</text:p>
+     <text:p text:style-name="P59">Supplies checked, groceries listed, repairs noted?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Half-completed tasks: Is there laundry in the washer? Has anything been <text:span text:style-name="T21">left incomplete?</text:span></text:p>
+     <text:p text:style-name="P59">Half-completed tasks: Is there laundry in the washer? Has anything been <text:span text:style-name="T21">left incomplete?</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P28" text:outline-level="3">Review</text:h>
+   <text:h text:style-name="P39" text:outline-level="3">Review</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P35">Review FATIGUE DUTY</text:p>
+     <text:p text:style-name="P59">Review FATIGUE DUTY</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Review the DUSK WATCH CONTEXT PAGE</text:p>
+     <text:p text:style-name="P59">Review the DUSK WATCH CONTEXT PAGE</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Review recent GENERAL LOG entries</text:p>
+     <text:p text:style-name="P59">Review recent GENERAL LOG entries</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Review your BRANCH table and any relevant DAGGER charts</text:p>
+     <text:p text:style-name="P59">Review your BRANCH table and any relevant DAGGER charts</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P28" text:outline-level="3">Debrief</text:h>
+   <text:h text:style-name="P39" text:outline-level="3">Debrief</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P38">How have your actions today affected your long term goals or plans?</text:p>
+     <text:p text:style-name="P62">How have your actions today affected your long term goals or plans?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P36">Record new events in the INCIDENT and GENERAL <text:span text:style-name="T21">logs</text:span>. Try to log at least one notable event.</text:p>
+     <text:p text:style-name="P60">Record new events in the INCIDENT and GENERAL <text:span text:style-name="T21">logs</text:span>. Try to log at least one notable event.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P27" text:outline-level="3">Preparation</text:h>
+   <text:h text:style-name="P38" text:outline-level="3">Preparation</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P35">Set all needed alarms, alerts, <text:span text:style-name="T20">or</text:span> reminders</text:p>
+     <text:p text:style-name="P59">Set all needed alarms, alerts, <text:span text:style-name="T20">or</text:span> reminders</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Record any known tasks for tomorrow</text:p>
+     <text:p text:style-name="P59">Record any known tasks for tomorrow</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Ensure that any items or clothes needed tomorrow are ready <text:span text:style-name="T19">to go</text:span></text:p>
+     <text:p text:style-name="P59">Ensure that any items or clothes needed tomorrow are ready <text:span text:style-name="T19">to go</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37">Review the MESS HALL <text:span text:style-name="T20">chart</text:span></text:p>
+     <text:p text:style-name="P61">Review the MESS HALL <text:span text:style-name="T20">chart</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P51">All posts accounted for. Patrols stood down. Perimeter secure.</text:p>
-   <text:h text:style-name="P12" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">DUSK WATCH </text:span><text:span text:style-name="T9">CONTEXT PAGE</text:span></text:h>
-   <text:p text:style-name="P3"><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P44">All posts accounted for. Patrols stood down. Perimeter secure.</text:p>
+   <text:h text:style-name="P26" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">DUSK WATCH </text:span><text:span text:style-name="T9">CONTEXT PAGE</text:span></text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
@@ -1254,86 +1335,86 @@
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P2"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T3"/></text:p>
-   <text:h text:style-name="P14" text:outline-level="2"><text:soft-page-break/>SORTIE <text:span text:style-name="T17">PT. 1</text:span></text:h>
-   <text:p text:style-name="P23">Stabilize, Orient, Regain, Target, Initiate, Endure</text:p>
-   <text:h text:style-name="P18" text:outline-level="3">S — Stabilize</text:h>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="P28" text:outline-level="2"><text:soft-page-break/>SORTIE <text:span text:style-name="T17">PT. 1</text:span></text:h>
+   <text:p text:style-name="P43">Stabilize, Orient, Regain, Target, Initiate, Endure</text:p>
+   <text:h text:style-name="P35" text:outline-level="3">S — Stabilize</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P46">Take a slow breath. Plant your feet. Feel one physical anchor point.</text:p>
+     <text:p text:style-name="P70">Take a slow breath. Plant your feet. Feel one physical anchor point.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Halt any harmful action before it gains momentum (e.g., lighting a cigarette, sending a rage message, self-sabotage).</text:p>
+     <text:p text:style-name="P70">Halt any harmful action before it gains momentum (e.g., lighting a cigarette, sending a rage message, self-sabotage).</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P18" text:outline-level="3">O — Orient</text:h>
+   <text:h text:style-name="P35" text:outline-level="3">O — Orient</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P46">Name where you are, who’s with you, and what’s actually happening right now.</text:p>
+     <text:p text:style-name="P70">Name where you are, who’s with you, and what’s actually happening right now.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Name the evidence that currently shapes your understanding of what is happening.</text:p>
+     <text:p text:style-name="P70">Name the evidence that currently shapes your understanding of what is happening.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Is this threat or problem real, exaggerated, or imagined?</text:p>
+     <text:p text:style-name="P70">Is this threat or problem real, exaggerated, or imagined?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Is your existing plan still viable?</text:p>
+     <text:p text:style-name="P70">Is your existing plan still viable?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">Quick-log any known tasks, duties, or follow-ups that could be lost in the chaos — so they’re safe to forget until later.</text:p>
+     <text:p text:style-name="P70">Quick-log any known tasks, duties, or follow-ups that could be lost in the chaos — so they’re safe to forget until later.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P18" text:outline-level="3">R — Regain</text:h>
+   <text:h text:style-name="P35" text:outline-level="3">R — Regain</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P46">What are your core values? Which one can guide you here?</text:p>
+     <text:p text:style-name="P70">What are your core values? Which one can guide you here?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">What prior victories or moments of resilience can you recall right now?</text:p>
+     <text:p text:style-name="P70">What prior victories or moments of resilience can you recall right now?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">What capabilities and resources are available right now — including unconventional or “off-mission” ones?</text:p>
+     <text:p text:style-name="P70">What capabilities and resources are available right now — including unconventional or “off-mission” ones?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">What can I avoid doing right now that will prevent making things worse?</text:p>
-     <text:p text:style-name="P47">Continue On Page 2</text:p>
+     <text:p text:style-name="P70">What can I avoid doing right now that will prevent making things worse?</text:p>
+     <text:p text:style-name="P71">Continue On Page 2</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P15" text:outline-level="2"><text:soft-page-break/>SORTIE <text:span text:style-name="T17">PT. 2</text:span></text:h>
+   <text:h text:style-name="P29" text:outline-level="2"><text:soft-page-break/>SORTIE <text:span text:style-name="T17">PT. 2</text:span></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">T — Target</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">What is the root of the current problem or spiral — and what’s just noise?</text:p>
+     <text:p text:style-name="P63">What is the root of the current problem or spiral — and what’s just noise?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Document any actionable steps currently known and planned — even if incomplete.</text:p>
+     <text:p text:style-name="P63">Document any actionable steps currently known and planned — even if incomplete.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Prioritize: What must happen first? What can be delayed?</text:p>
+     <text:p text:style-name="P63">Prioritize: What must happen first? What can be delayed?</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">I — Initiate</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Pick one action that gives you relief or traction (begin working on a known task, hydrate, walk, etc).</text:p>
+     <text:p text:style-name="P63">Pick one action that gives you relief or traction (begin working on a known task, hydrate, walk, etc).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Make it concrete and start within 60 seconds.</text:p>
+     <text:p text:style-name="P63">Make it concrete and start within 60 seconds.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">E — Endure</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Continue working on tasks in priority order, even if some tasks are currently impossible.</text:p>
+     <text:p text:style-name="P63">Continue working on tasks in priority order, even if some tasks are currently impossible.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">If there are blocking issues stopping the entire project, pick an some other productive task.</text:p>
+     <text:p text:style-name="P63">If there are blocking issues stopping the entire project, pick an some other productive task.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
@@ -1345,190 +1426,190 @@
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/><text:s/><text:span text:style-name="T10">Weekly Commander&apos;s Review: SWORDPOINT </text:span><text:span text:style-name="T11">Pt. 1 of </text:span><text:span text:style-name="T13">6</text:span></text:h>
-   <text:p text:style-name="P23">Strategic Weekly Overview, Debriefing, Planning, and Operational INTelligence</text:p>
-   <text:p text:style-name="P19">Remember that You Have Been Drafted. Ignoring important missions is likely not a good option.</text:p>
-   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P43">Strategic Weekly Overview, Debriefing, Planning, and Operational INTelligence</text:p>
+   <text:p text:style-name="P37">Remember that You Have Been Drafted. Ignoring important missions is likely not a good option.</text:p>
+   <text:p text:style-name="P37"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">INSPECTION</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Perform an in-depth sweep of your environment, looking behind, under, and inside things.</text:p>
+     <text:p text:style-name="P63">Perform an in-depth sweep of your environment, looking behind, under, and inside things.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P22" text:outline-level="3">DOCUMENT REVIEW</text:h>
+   <text:h text:style-name="P42" text:outline-level="3">DOCUMENT REVIEW</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P41">Review the SWORDPOINT CONTEXT PAGE</text:p>
+     <text:p text:style-name="P68">Review the SWORDPOINT CONTEXT PAGE</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Review your other CONTEXT PAGES including infrequently used ones.</text:p>
+     <text:p text:style-name="P69">Review your other CONTEXT PAGES including infrequently used ones.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Review the THUNDERWARS cheat sheet.</text:p>
+     <text:p text:style-name="P69">Review the THUNDERWARS cheat sheet.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Do any Standing Orders need review or reinforcement?</text:p>
+     <text:p text:style-name="P69">Do any Standing Orders need review or reinforcement?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Should your FATIGUE DUTY or MESS HALL charts be adjusted?</text:p>
+     <text:p text:style-name="P69">Should your FATIGUE DUTY or MESS HALL charts be adjusted?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Review LOGISTICS</text:p>
+     <text:p text:style-name="P69">Review LOGISTICS</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Transcribe anything that needs to be transcribed to digital form.</text:p>
+     <text:p text:style-name="P69">Transcribe anything that needs to be transcribed to digital form.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Do the bookkeeping: Copy or summarize notes to where they should be.</text:p>
+     <text:p text:style-name="P69">Do the bookkeeping: Copy or summarize notes to where they should be.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Is anything in your documents no longer relevant, that should be crossed out, erased, or archived?</text:p>
-     <text:h text:style-name="P24" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. 2 of </text:span><text:span text:style-name="T13">6</text:span></text:h>
+     <text:p text:style-name="P69">Is anything in your documents no longer relevant, that should be crossed out, erased, or archived?</text:p>
+     <text:h text:style-name="P50" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. 2 of </text:span><text:span text:style-name="T13">6</text:span></text:h>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P17" text:outline-level="3">MISSION RECAP</text:h>
+   <text:h text:style-name="P32" text:outline-level="3">MISSION RECAP</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What were your major actions, goals, or struggles this week?</text:p>
+     <text:p text:style-name="P72">What were your major actions, goals, or struggles this week?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P49">Did anything from the week deserve a DAGGER report?</text:p>
+     <text:p text:style-name="P73">Did anything from the week deserve a DAGGER report?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P16" text:outline-level="3">DEBRIEF</text:h>
+   <text:h text:style-name="P30" text:outline-level="3">DEBRIEF</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What went well and why?</text:p>
+     <text:p text:style-name="P72">What went well and why?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What failed and why?</text:p>
+     <text:p text:style-name="P72">What failed and why?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Were there signs you ignored, shortcuts you regretted, or things that could’ve been anticipated?</text:p>
+     <text:p text:style-name="P72">Were there signs you ignored, shortcuts you regretted, or things that could’ve been anticipated?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Are there emerging themes in your INCIDENT LOG?</text:p>
+     <text:p text:style-name="P72">Are there emerging themes in your INCIDENT LOG?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P17" text:outline-level="3">DAMAGE REPORT</text:h>
+   <text:h text:style-name="P32" text:outline-level="3">DAMAGE REPORT</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What areas fell into chaos, neglect, or regression?</text:p>
+     <text:p text:style-name="P72">What areas fell into chaos, neglect, or regression?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What friction points or breakdowns repeated?</text:p>
+     <text:p text:style-name="P72">What friction points or breakdowns repeated?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Any untracked or creeping obligations forming?</text:p>
+     <text:p text:style-name="P72">Any untracked or creeping obligations forming?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Any consistently neglected tasks?</text:p>
+     <text:p text:style-name="P72">Any consistently neglected tasks?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What RUINOUS SYSTEMS may be affecting you at present?</text:p>
+     <text:p text:style-name="P72">What RUINOUS SYSTEMS may be affecting you at present?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Am I copying, taking on, or absorbing inappropriate attitudes, thoughts, or feelings from anywhere?</text:p>
+     <text:p text:style-name="P74">Am I copying, taking on, or absorbing inappropriate attitudes, thoughts, or feelings from anywhere?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P17" text:outline-level="3">Task Management</text:h>
+   <text:h text:style-name="P32" text:outline-level="3">Task Management</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What tasks are currently blocked on something else?</text:p>
+     <text:p text:style-name="P72">What tasks are currently blocked on something else?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What has recently become unblocked?</text:p>
+     <text:p text:style-name="P72">What has recently become unblocked?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">If I am waiting on a question, what can I do now that will still be useful regardless of the answer?</text:p>
+     <text:p text:style-name="P74">If I am waiting on a question, what can I do now that will still be useful regardless of the answer?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Is there sufficient slack time to handle unforeseen events?</text:p>
-     <text:h text:style-name="P25" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T12">3</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
+     <text:p text:style-name="P74">Is there sufficient slack time to handle unforeseen events?</text:p>
+     <text:h text:style-name="P51" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T12">3</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">STRATEGIC ADJUSTMENTS</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What do you want to change about your approach or posture next week?</text:p>
+     <text:p text:style-name="P72">What do you want to change about your approach or posture next week?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What unused resources, spaces, or abilities have you noticed that you could apply?</text:p>
+     <text:p text:style-name="P72">What unused resources, spaces, or abilities have you noticed that you could apply?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?</text:p>
+     <text:p text:style-name="P74">Are you focusing too much on any specific strategies or tools, and potentially missing other possibilities?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Are any small details either being ignored or consuming more time than they should be?</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P17" text:outline-level="3">NEXT WEEK&apos;S DIRECTIVES</text:h>
-   <text:list text:continue-numbering="true" text:style-name="List_20_1">
-    <text:list-item>
-     <text:p text:style-name="P48">What are your key missions or events?</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P48">What needs prep or early action now?</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P48">Which actions are critical to retaining ground gained?</text:p>
+     <text:p text:style-name="P74">Are any small details either being ignored or consuming more time than they should be?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P17" text:outline-level="3">LONG TERM ALIGNMENT</text:h>
+   <text:h text:style-name="P32" text:outline-level="3">NEXT WEEK&apos;S DIRECTIVES</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P48">What kind of person do you intend to become?</text:p>
+     <text:p text:style-name="P72">What are your key missions or events?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Review <text:span text:style-name="T18">your </text:span>CHARTER OF THE REALM</text:p>
+     <text:p text:style-name="P72">What needs prep or early action now?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What &quot;someday&quot; projects would you like to eventually work on?</text:p>
+     <text:p text:style-name="P72">Which actions are critical to retaining ground gained?</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P32" text:outline-level="3">LONG TERM ALIGNMENT</text:h>
+   <text:list text:continue-numbering="true" text:style-name="List_20_1">
+    <text:list-item>
+     <text:p text:style-name="P72">What kind of person do you intend to become?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What are your current top goals?</text:p>
+     <text:p text:style-name="P72">Review <text:span text:style-name="T18">your </text:span>CHARTER OF THE REALM</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What steps have you taken this week towards your goals?</text:p>
+     <text:p text:style-name="P72">What &quot;someday&quot; projects would you like to eventually work on?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What obstacles have impeded progress towards them?</text:p>
+     <text:p text:style-name="P72">What are your current top goals?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What actions will you take towards them this week?</text:p>
+     <text:p text:style-name="P72">What steps have you taken this week towards your goals?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">Are your goals or actions related to them represented in your calendar, to-do list, general log, or other reachable documents?</text:p>
+     <text:p text:style-name="P72">What obstacles have impeded progress towards them?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48">What aspects of your goals and projects can you pursue with focused deep work?</text:p>
-     <text:h text:style-name="P24" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">4</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
+     <text:p text:style-name="P72">What actions will you take towards them this week?</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P72">Are your goals or actions related to them represented in your calendar, to-do list, general log, or other reachable documents?</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P72">What aspects of your goals and projects can you pursue with focused deep work?</text:p>
+     <text:h text:style-name="P50" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">4</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">VALUES ALIGNMENT</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Are you moving closer to the kind of person you want to become?</text:p>
+     <text:p text:style-name="P63">Are you moving closer to the kind of person you want to become?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Are any goals losing connection to your values or drifting toward burnout?</text:p>
+     <text:p text:style-name="P63">Are any goals losing connection to your values or drifting toward burnout?</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">TODO Review</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Move anything non-urgent to the Ideas/Someday list.</text:p>
+     <text:p text:style-name="P63">Move anything non-urgent to the Ideas/Someday list.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Merge duplicates or related items into a single clear task.</text:p>
+     <text:p text:style-name="P63">Merge duplicates or related items into a single clear task.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Split large tasks into smaller, single-action steps.</text:p>
+     <text:p text:style-name="P63">Split large tasks into smaller, single-action steps.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Upgrade vague entries with a clearer action and/or Reason Statement.</text:p>
+     <text:p text:style-name="P63">Upgrade vague entries with a clearer action and/or Reason Statement.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Check off and record completed items in the GENERAL LOG</text:p>
+     <text:p text:style-name="P63">Check off and record completed items in the GENERAL LOG</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
@@ -1541,74 +1622,74 @@
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list153916489916325" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:list xml:id="list165518052371685" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-header>
-     <text:h text:style-name="P26" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">5</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
+     <text:h text:style-name="P52" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">5</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
     </text:list-header>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Spycraft Check</text:h>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:span text:style-name="T1">Local World</text:span> </text:h>
-   <text:list xml:id="list153916064292396" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:list xml:id="list165517401369118" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Who near me usually knows what’s happening soon? Have I checked with them?</text:p>
+     <text:p text:style-name="P63">Who near me usually knows what’s happening soon? Have I checked with them?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What events, festivals, or meetups were mentioned in passing this week?</text:p>
+     <text:p text:style-name="P63">What events, festivals, or meetups were mentioned in passing this week?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What changes did I notice on my block, at local shops, or in the neighborhood? </text:p>
+     <text:p text:style-name="P63">What changes did I notice on my block, at local shops, or in the neighborhood? </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What changes have I noticed with relatives, friends, or close contacts?</text:p>
+     <text:p text:style-name="P63">What changes have I noticed with relatives, friends, or close contacts?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P29" text:outline-level="4" text:is-list-header="true">Mission Zone</text:h>
-   <text:list xml:id="list153916470632625" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:h text:style-name="P48" text:outline-level="4" text:is-list-header="true">Mission Zone</text:h>
+   <text:list xml:id="list165517808838109" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Did I hear of new deals, contracts, or clients that will shift focus?</text:p>
+     <text:p text:style-name="P63">Did I hear of new deals, contracts, or clients that will shift focus?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Who has ‘soft info’ (rumors, early signals) that could affect priorities?</text:p>
+     <text:p text:style-name="P63">Who has ‘soft info’ (rumors, early signals) that could affect priorities?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What problems did someone brush off with ‘not a big deal’? Could it be bigger?</text:p>
+     <text:p text:style-name="P63">What problems did someone brush off with ‘not a big deal’? Could it be bigger?</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4" text:is-list-header="true">Silent Signals</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Who seemed stressed, absent, or unusually quiet? Did I ask why?</text:p>
+     <text:p text:style-name="P63">Who seemed stressed, absent, or unusually quiet? Did I ask why?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What’s missing from the usual flow of updates?</text:p>
+     <text:p text:style-name="P63">What’s missing from the usual flow of updates?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">Is there a policy or system I depend on that hasn’t been mentioned in a while?</text:p>
-     <text:p text:style-name="P39"/>
+     <text:p text:style-name="P63">Is there a policy or system I depend on that hasn’t been mentioned in a while?</text:p>
+     <text:p text:style-name="P63"/>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list153916548260068" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:list xml:id="list165518325816372" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-header>
-     <text:h text:style-name="P26" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">6</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
+     <text:h text:style-name="P52" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">SWORDPOINT </text:span><text:span text:style-name="T11">Pt. </text:span><text:span text:style-name="T13">6</text:span><text:span text:style-name="T11"> of </text:span><text:span text:style-name="T13">6</text:span></text:h>
     </text:list-header>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4">Personal Connections</text:h>
-   <text:list xml:id="list153914985087036" text:continue-numbering="true" text:style-name="List_20_1">
+   <text:list xml:id="list165517522354254" text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">Who haven’t I checked in with directly that I rely on for awareness?</text:p>
+     <text:p text:style-name="P63">Who haven’t I checked in with directly that I rely on for awareness?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What one-on-one conversation could give me clarity that group channels won’t?</text:p>
+     <text:p text:style-name="P63">What one-on-one conversation could give me clarity that group channels won’t?</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_4" text:outline-level="4" text:is-list-header="true">Actionable Steps</text:h>
    <text:list text:continue-numbering="true" text:style-name="List_20_1">
     <text:list-item>
-     <text:p text:style-name="P39">What small question can I ask someone this week that could reveal hidden information?</text:p>
+     <text:p text:style-name="P63">What small question can I ask someone this week that could reveal hidden information?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">What intel do I need before the next decision point?</text:p>
+     <text:p text:style-name="P63">What intel do I need before the next decision point?</text:p>
     </text:list-item>
    </text:list>
   </office:text>
