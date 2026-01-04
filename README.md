@@ -832,7 +832,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 * Perform an in-depth sweep of your environment, looking behind, under, and inside things.
 
 ### 📚 DOCUMENT REVIEW
-
+* Review last week's SWORDPOINT notes
 * Review the SWORDPOINT CONTEXT PAGE
 * Review your other CONTEXT PAGES, including infrequently used ones.
 * Review the THUNDERWARS cheat sheet.
