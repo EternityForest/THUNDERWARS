@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.29.0 dev**
+**Version 0.30.0 dev**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 
@@ -338,6 +338,8 @@ For smaller projects, it may still be useful to review the list even if you do n
 * What aspects can be validated or confirmed with low time and resource commitment?
 * What unproven assumptions do you have about the project?
 * How should disruptive changes resulting from this mission be managed?
+* Am I actively doing anything counterproductive to this goal?
+* Am I willfully refusing to notice or use an obvious solution for irrational reasons?
 
 #### 🎒 SUPPLIES & SUPPORT
 
