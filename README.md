@@ -1068,13 +1068,38 @@ It is also valuable for analyzing any other situation that can be plotted along 
 
 We can imagine a radius of effect for a problem, which only affects us if we are close enough in multiple dimensions (Fatigue, proximity to temptation, stress, etc).
  
-## Efficient Movement 
+### Efficient Movement 
 
 The Destreza, with it's focused on minimal and efficient movement, reminds us to consider what specific things are bringing us closer to success or failure, and focus on those, rather than on flashy actions that do little to change the geometry that matters.
 
 If you are on a boat in a poisonous lake, fire hazards are unlikely to be your primary concern.
 
-You should probably leave before you are poisoned, rather than turning off your engine to avoid a non-existent problem. If you are going to a fancy restaurant, you should not spend time packing a lunch in case they are out of food, and then forget to get dressed in the process.
+You should probably leave before you are poisoned, rather than turning off your engine to avoid a non-existent problem. 
+
+If you are going to a fancy restaurant, you should not spend time packing a lunch in case they are out of food, and then forget to get dressed in the process.
+
+### The “Natural” vs “Forced” Motion Doctrine
+Destreza distinguishes between "Natural" and "Forced" motion, which can be interpreted both literally and symbolically.
+
+
+### Natural Motion
+* Uses skeletal alignment
+* Requires minimal muscular tension
+* Can be paused without collapse
+* Does not require correction
+
+
+### Violent (Forced) Motion
+* Requires continuous effort
+* Must be actively maintained
+* Collapses when attention lapses
+* Creates secondary problems
+
+While the system was originally a martial art, we see everyday examples of movement that seems to set one up for failure and requires active force to control.
+
+Movement without inherent safety or stability shows up in things like cutting a box towards yourself and risking injury if it slips, carrying something in such a way that you cannot easily put it down if needed, or turning a wrench that gives way suddenly and makes you slam your hand.
+
+
 
 ## The Training Grounds
 
