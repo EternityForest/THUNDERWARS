@@ -57,6 +57,12 @@ Psychology and folk wisdom alike recognize the importance of discipline and the 
 
 In short: THUNDERWARS is about learning to fly the plane, not proving you can survive the crash.
 
+## Warnings
+
+One possible concern with this system, and any system that uses reminders or checklists for important things, is that if you don't do the checklist, you might not even think of any of the things you have learned to associate with it, regardless of how important or obvious they are.
+
+While the overall reliability rate is almost certainly going to increase with just about any system, they do create the possibility of forgetting a review or checklist and thus forgetting all the items at once, due to lack of experience remembering them in any other way aside from the reviews.
+
 ## Design Principles
 
 ### Repeatability
