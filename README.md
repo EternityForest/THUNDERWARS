@@ -7,55 +7,39 @@
 
 > You Have Been Drafted.
 
-**Version 0.30.0 dev**
+**Version 0.31.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
+License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
 
 ---------------------------------
 
 ## Quickstart
 Begin by completing a BRANCH table, a FATIGUE DUTY chart, and a MESS HALL plan.
 
-Choose three RITES OF WATCH
+* Choose one to three RITES OF WATCH
 
-Then complete a DAGGER report for any zones within the BRANCH table identified as priority targets.
+* Then complete a DAGGER report for any zones within the BRANCH table identified as priority targets.
 
-Maintain an INCIDENT LOG and GENERAL LOG.
+* Maintain an INCIDENT LOG and GENERAL LOG.
 
-Perform the DAWN BRIEFING and DUSK WATCH
+* Perform the DAWN BRIEFING and DUSK WATCH
 
-Create Context Pages for frequently repeated tasks or significant plans.
+* Create Context Pages for frequently repeated tasks or significant plans.
 
-Review all checklists and procedures carefully, every time; do not just rely on memory.
+* Review all checklists and procedures carefully, every time; do not just rely on memory.
 
 
 ## Purpose 
 
-THUNDERWARS is a general-purpose framework for task, time, and mission management, designed to integrate the practical, psychological, and philosophical dimensions of getting things done.
-It builds on decades of trusted precedent in aviation, medicine, cognitive science, and field operations — but it remains open-ended, modular, and adaptable to individual philosophy and context.
+THUNDERWARS is a general-purpose framework for task, time, and mission management, designed to integrate the practical, psychological, and philosophical dimensions of getting things done, meant to feel like something your favorite characters from the world of fantasy and sci-fi might use.
 
-This system is published in the spirit of the open-source movement:
-Its tools and ideas are offered freely, without prescriptive ideology, leaving questions of suitability and interpretation to the individual practitioner.
-
-Where possible, each method references supporting research from psychology, human factors engineering, and performance science.
-Some tools, however, are original to this framework — evolving through field testing, refinement, and lived experience rather than formal study.
-
-
-### Differences from Other Systems
+It builds on some amount of science and precedent from aviation, medicine, cognitive science, and field operations, but is ultimately an everyday  civillian tool, with no proven suitability for true critical operations.
 
 While many productivity philosophies emphasize discipline over motivation, and for good reason, THUNDERWARS places its emphasis on prevention over endurance — designing habits, checklists, and decision frameworks to avoid unnecessary hardship, rather than to glorify perseverance under it.
 
-Although the system borrows thematically from military, sci-fi, and high-fantasy traditions, these are metaphorical settings, chosen for their storytelling power and their ability to make self-management feel adventurous and creative.
-They are not intended as endorsements of contemporary “grindset” or “warrior culture” ideologies.
+This is not a program for toughness training, "becoming hard", or oriented towards "warrior culture. Although the system borrows thematically from military, sci-fi, and high-fantasy traditions, these are metaphorical settings, chosen for their storytelling power and their ability to make self-management feel adventurous and creative, and are not intended to glorify violence.
 
-
-This is not a program for toughness training or “becoming hard.".  The system maintains a neutral stance towards such things, leaving any evaluation of them to the individual.
-
-It is a system for reducing friction, increasing foresight, and maintaining morale — so that courage, discipline, and endurance are available when truly needed, not constantly demanded.
-
-Psychology and folk wisdom alike recognize the importance of discipline and the rarity of shortcuts that are truly effective, but we do not need to add our own unnecessary suffering on top of inherently difficult tasks.
-
-In short: THUNDERWARS is about learning to fly the plane, not proving you can survive the crash.
 
 ## Warnings
 
