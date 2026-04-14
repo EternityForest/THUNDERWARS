@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.31.0**
+**Version 0.32.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -886,7 +886,7 @@ A high-command strategy debrief for the week’s campaign.  Probably best done o
 
 * Who haven’t I checked in with directly that I rely on for awareness?
 * What one-on-one conversation could give me clarity that group channels won’t?
-
+* What information do I have that needs to be properly communicated?
 
 #### Actionable Steps
 
