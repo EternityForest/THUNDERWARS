@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.32.0**
+**Version 0.33.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -297,6 +297,7 @@ For smaller projects, it may still be useful to review the list even if you do n
 * What are you likely to lose if you fail this mission?
 * What are you likely to gain if you succeed?
 * How does this project align or not align with your values?
+* Will this goal require some kind of sacrifice?
 
 
 #### 🔥 OFFENSIVE STRATEGY
