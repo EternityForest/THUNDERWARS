@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.33.0**
+**Version 0.34.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -399,6 +399,10 @@ For specific, focused missions like preparing for an important meeting, use the 
 * Do you need to gather documents, IDs, or permissions?
 * Are any critical documents backed up on paper?
 * Are digital files in the right formats, folders, and accessible offline?
+* Are all sub-components of each item you intend to bring present?
+* Are all essential accessories for each item you intend to bring present?
+* Have you mentally walked through use of each item to make sure no components are missing?
+
 
 #### 🚗 TRANSPORT & TIMING
 * What is your departure time, and how was it calculated?
@@ -413,6 +417,7 @@ For specific, focused missions like preparing for an important meeting, use the 
 
 #### 🗣️ COMMUNICATION
 * How will you maintain contact with allies or support?
+* What communication and coordination needs to be done in advance, or as soon as possible?
 * Do you need to delegate anything or request backup?
 
 #### 🧹 TEARDOWN & RECOVERY
