@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.34.0**
+**Version 0.35.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -283,13 +283,14 @@ For smaller projects, it may still be useful to review the list even if you do n
 
 ### Core Questions
 
-#### 🎯 MISSION OBJECTIVE
+#### 🎯 MISSION OVERVIEW 
 
 * What is your immediate goal?
 * How will you know that you have at least succeeded in the short term?
 * What is the timeline for this mission?
 * Would some parts be better done later, made less extreme, or not done at all?
 * Could any aspect of the goal or plan itself have been influenced or compromised by an enemy?
+* What similar projects have you had experience with?
 
 
 #### 💥 CONSEQUENCES
