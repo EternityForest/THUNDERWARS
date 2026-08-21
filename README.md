@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.35.0**
+**Version 0.36.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -310,6 +310,7 @@ For smaller projects, it may still be useful to review the list even if you do n
 * What specific positive Implementation Intentions[^1] (When/If X, I will Y) can you form about this?
 * How can the task be broken down into the smallest possible steps [^7]
 
+
 #### 🛡 DEFENSIVE STRATEGY
 
 * What physical, social, or procedural changes will make it easier to complete the mission?
@@ -327,6 +328,7 @@ For smaller projects, it may still be useful to review the list even if you do n
 * What decisions cannot be easily reversed?
 * How will the physical environment affect this mission?
 * How will time-related factors affect the mission?
+* Are there any steps which must be done in a specific order?
 * What aspects can be validated or confirmed with low time and resource commitment?
 * What unproven assumptions do you have about the project?
 * How should disruptive changes resulting from this mission be managed?
