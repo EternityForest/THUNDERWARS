@@ -7,7 +7,7 @@
 
 > You Have Been Drafted.
 
-**Version 0.36.0**
+**Version 0.37.0**
 
 Source: https://github.com/EternityForest/THUNDERWARS
 License: CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -1318,9 +1318,11 @@ The "standard" form of paper version of this system uses Personal size pages, co
 Preferably the Sakura Sumogrip or similar. 0.9 is chosen because it
 is much more durable and reliable than 0.5 or 0.7, and is now widely available.
 
-### 1.5x2" sticky notes
+### 6 ring 3-card Sleeve Pages 
 
-These smaller notes are perfect for things like the BRANCH table, which may change regularly, and can also be used to attach reminders to objects, although for many people this should not be relied as they may go unnoticed.
+Designed to hold business cards, these can be used to track your BRANCH table using slips of paper.
+
+Previously sticky notes were used for this, but they did not hold up well and always fell off.
 
 ### Tab Dividers
 
